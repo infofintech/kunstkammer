@@ -45,8 +45,16 @@
         }, "insignia": "Ship", "country": "EU",
         "memoir": "The Grand Tour was the principally 17th - to early 19th-century custom of a traditional trip through Europe, with Italy as a key destination, undertaken by upper-class young European men of sufficient means and rank (typically accompanied by a tutor or family member) when they had come of age (about 21 years old). The custom - which flourished from about 1660 until the advent of large-scale rail transport in the 1840s and was associated with a standard itinerary - served as an educational rite of passage. Though it was primarily associated with the British nobility and wealthy landed gentry, similar trips were made by wealthy young men of other Protestant Northern European nations, and, from the second half of the 18th century, by some South and North Americans."
     },
-    "Great Pyramid of Giza":
-    {
+    "Leda and the Swan": {
+        "language": {
+            "RU": {
+                "title": "Леда и Лебедь",
+                "memoir": "Леда и Лебедь, сонет Уильяма Батлера Йейтса, написанный в 1923 году, напечатанный в The Dial (июнь 1924 года) и опубликованный в сборнике The Cat and the Moon and Certain Poems (1924). Стихотворение основано на греческой мифологической истории о прекрасной Леде, которая родила Елену и Клитемнестру после того, как ее изнасиловал Зевс в облике лебедя."
+            }
+        }, "insignia": "Swan", "country": "GR",
+        "memoir": "Leda and the Swan, sonnet by William Butler Yeats, composed in 1923, printed in The Dial (June 1924), and published in the collection The Cat and the Moon and Certain Poems (1924). The poem is based on the Greek mythological story of beautiful Leda, who gave birth to Helen and Clytemnestra after she was raped by Zeus in the form of a swan."
+    },
+    "Great Pyramid of Giza": {
         "language": {
             "RU": {
                 "title": "Пирамида Хеопса",
@@ -56,184 +64,16 @@
         "insignia": "Louvre", "country": "EG",
         "memoir": "From the heights of these pyramids, forty centuries look down on us. - Napoleon Bonaparte."
     },
-    "Rapa Nui":
-    {
+    "Trojan War": {
         "language": {
             "RU": {
-                "title": "Остров Пасхи",
-                "memoir": "Устная традиция гласит, что остров был впервые заселен экспедицией на двух каноэ, прибывшей из Мараэ Ренга (или Мараэ Тое Хау — также известной как Острова Кука) под руководством вождя Хоту Матуа и его капитана Туу ко Ихо. Остров был впервые исследован после того, как Хаумака увидел во сне такую ​​далекую страну; Хоту посчитал это место достойным местом для побега от соседнего вождя, которому он уже проиграл три битвы. На момент их прибытия на острове был один одинокий поселенец, Нга Таваке 'а Те Рона. После недолгого пребывания в Анакене колонисты поселились в разных частях острова. На острове родился наследник Хоту, Туу ма Хеке. Туу ко Ихо считается лидером, который принес статуи и заставил их ходить."
+                "title": "Троянская война",
+                "memoir": "Историчность Троянской войны остается открытым вопросом. Многие ученые считают, что в сказке есть историческое ядро, хотя это может означать, что гомеровские истории представляют собой слияние различных рассказов о осадах и экспедициях микенских греков во время бронзового века. Те, кто считает, что истории о троянской войне происходят из определенного исторического конфликта, обычно датируя его до 12 или 11-го века до нашей эры, часто предпочитая даты, данные эратостенесом, 1194-1184 гг. до н.э., которые примерно соответствуют археологическим доказательствам катастрофического Сжигание Трои VII, и обрушения позднего бронзового века."
             }
-        },
-        "insignia": "Amphora", "country": "CL",
-        "memoir": "Oral tradition states the island was first settled by a two-canoe expedition originating from Marae Renga (or Marae Toe Hau - otherwise known as Cook Islands), and led by the chief Hotu Matu'a and his captain Tu'u ko Iho. The island was first scouted after Haumaka dreamed of such a far-off country; Hotu deemed it a worthwhile place to flee from a neighboring chief, one to whom he had already lost three battles. At their time of arrival, the island had one lone settler, Nga Tavake 'a Te Rona. After a brief stay at Anakena, the colonists settled in different parts of the island. Hotu's heir, Tu'u ma Heke, was born on the island. Tu'u ko Iho is viewed as the leader who brought the statues and caused them to walk."
+        }, "insignia": "Spartan", "country": "GR",
+        "memoir": "The historicity of the Trojan War remains an open question. Many scholars believe that there is a historical core to the tale, though this may simply mean that the Homeric stories are a fusion of various tales of sieges and expeditions by Mycenaean Greeks during the Bronze Age. Those who believe that the stories of the Trojan War are derived from a specific historical conflict usually date it to the 12th or 11th century BC, often preferring the dates given by Eratosthenes, 1194–1184 BC, which roughly correspond to archaeological evidence of a catastrophic burning of Troy VII, and the Late Bronze Age collapse."
     },
-    "Stonehenge":
-    {
-        "language": {
-            "RU": {
-                "title": "Стоунхендж",
-                "memoir": "Стоунхендж был местом захоронения с момента своего основания и до своего расцвета в середине третьего тысячелетия до н. э. Кремационное захоронение, относящееся к периоду сарсеновых камней Стоунхенджа, вероятно, является лишь одним из многих, относящихся к более позднему периоду использования памятника, и свидетельствует о том, что он по-прежнему оставался в значительной степени владением мертвых."
-            }
-        },
-        "insignia": "Amphora", "country": "GB",
-        "memoir": "Stonehenge was a place of burial from its beginning to its zenith in the mid third millennium B.C. The cremation burial dating to Stonehenge's sarsen stones phase is likely just one of many from this later period of the monument's use and demonstrates that it was still very much a domain of the dead."
-    },
-    "Ishtar Gate":
-    {
-        "language": {
-            "RU": {
-                "title": "Ворота Иштар",
-                "memoir": "Царь Навуходоносор II правил в 604-562 гг. до н. э., в период расцвета Нововавилонской империи. Он известен как библейский завоеватель, захвативший Иерусалим. Он приказал построить ворота и посвятил их вавилонской богине Иштар. Ворота были построены из глазурованного кирпича с чередующимися рядами барельефов mušḫuššu (драконов), aurochs (быков) и львов, символизирующих богов Мардука, Адада и Иштар соответственно."
-            }
-        },
-        "insignia": "SunKing", "country": "IQ",
-        "memoir": "King Nebuchadnezzar II reigned 604-562 BC, the peak of the Neo-Babylonian Empire. He is known as the biblical conqueror who captured Jerusalem. He ordered the construction of the gate and dedicated it to the Babylonian goddess Ishtar. The gate was constructed using glazed brick with alternating rows of bas-relief mušḫuššu (dragons), aurochs (bulls), and lions, symbolizing the gods Marduk, Adad, and Ishtar respectively."
-    },
-    "Great Wall of China":
-    {
-        "language": {
-            "RU": {
-                "title": "Великая китайская стена",
-                "memoir": "Великая Китайская стена — это ряд укреплений, которые были построены вдоль исторических северных границ древних китайских государств и императорского Китая в качестве защиты от различных кочевых групп из Евразийской степи. Несколько стен были построены еще в VII веке до нашей эры, а отдельные участки позже присоединил Цинь Шихуанди (220–206 гг. до н. э.), первый император Китая. От стены Цинь осталось немногое. Позже многие последующие династии построили и поддерживали несколько участков пограничных стен. Самые известные участки стены были построены династией Мин (1368–1644)."
-            }
-        },
-        "insignia": "NotreDame", "country": "CN",
-        "memoir": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined by Qin Shi Huang (220–206 BC), the first emperor of China. Little of the Qin wall remains. Later on, many successive dynasties built and maintained multiple stretches of border walls. The best-known sections of the wall were built by the Ming dynasty (1368–1644)."
-    },
-    "Western culture":
-    {
-        "language": {
-            "RU": {
-                "title": "Западная культура",
-                "memoir": "Исторически ученые тесно связывали идею западной культуры с классической эпохой греко-римской античности. Однако ученые также признают, что другие древние культуры, такие как Древний Египет, финикийские города-государства и несколько ближневосточных культур, стимулировали и способствовали развитию западной цивилизации. Эллинистический период также способствовал синкретизму, смешивая греческую, римскую и еврейскую культуры. Крупные достижения в литературе, инженерии и науке сформировали эллинистическую еврейскую культуру, из которой появились самые ранние христиане и греческий Новый Завет. Окончательная христианизация Европы в поздней античности гарантировала, что христианство, особенно католическая церковь, останется доминирующей силой в западной культуре на протяжении многих последующих столетий."
-            }
-        },
-        "insignia": "Spartan", "country": "EU",
-        "memoir": "Historically, scholars have closely associated the idea of Western culture with the classical era of Greco-Roman antiquity. However, scholars also acknowledge that other ancient cultures, like Ancient Egypt, the Phoenician city-states, and several Near-Eastern cultures stimulated and fostered Western civilization. The Hellenistic period also promoted syncretism, blending Greek, Roman, and Jewish cultures. Major advances in literature, engineering, and science shaped the Hellenistic Jewish culture from which the earliest Christians and the Greek New Testament emerged. The eventual Christianization of Europe in late-antiquity would ensure that Christianity, particularly the Catholic Church, remained a dominant force in Western culture for many centuries to follow."
-    },
-    "Petra":
-    {
-        "language": {
-            "RU": {
-                "title": "Петра",
-                "memoir": "Еврейский историк Иосиф Флавий (ок. 37-100 гг. н. э.) пишет, что регион был заселен мадианитянами во времена Моисея, и что ими правили пять царей, одним из которых был Рекем. Иосиф Флавий упоминает, что город, называемый греками Петрой, «занимает самое высокое место в земле арабов» и все арабы его времени по-прежнему называли его Рекеме, в честь его царственного основателя (Древности IV. 7, 1; 4, 7). Ономастикон Евсевия также идентифицировал Рекем как Петру. Арабское слово raqama означает «отмечать, украшать», поэтому Рекеме могло быть набатейским словом, относящимся к знаменитым резным каменным фасадам. В 1964 году рабочие, расчищавшие щебень со скалы у входа в ущелье, обнаружили несколько погребальных надписей набатейским шрифтом. Одно из них было посвящено некоему Петраиосу, который родился в Ракму (Рекеме) и похоронен в Гаршу (Джераше)."
-            }
-        },
-        "insignia": "NotreDame", "country": "IL",
-        "memoir": "The Jewish historian Josephus (ca. 37-100 AD) writes that the region was inhabited by the Midianites during the time of Moses, and that they were ruled by five kings, one of whom was Rekem. Josephus mentions that the city, called Petra by the Greeks, \"ranks highest in the land of the Arabs\" and was still called Rekeme by all the Arabs of his time, after its royal founder (Antiquities iv. 7, 1; 4, 7). The Onomasticon of Eusebius also identified Rekem as Petra. Arabic raqama means \"to mark, to decorate\", so Rekeme could be a Nabataean word referring to the famous carved rock façades. In 1964, workmen clearing rubble away from the cliff at the entrance to the gorge found several funerary inscriptions in Nabatean script. One of them was to a certain Petraios who was born in Raqmu (Rekem) and buried in Garshu (Jerash)."
-    },
-    "Gladiators":
-    {
-        "language": {
-            "RU": {
-                "title": "Гладиаторы",
-                "memoir": "Два других источника гладиаторов, которые все чаще встречались во время принципата и относительно низкой военной активности Pax Romana, были рабы, осужденные на арену (damnati), в гладиаторские школы или игры (ad ludum gladiatorium) в качестве наказания за преступления, и платные добровольцы (auctorati), которые к концу Республики могли составлять примерно половину — и, возможно, самую способную половину — всех гладиаторов. Использование добровольцев имело прецедент в иберийском munus Сципиона Африканского; но никто из них не получал плату."
-            }
-        },
-        "insignia": "Colosseum", "country": "IT",
-        "memoir": "Two other sources of gladiators, found increasingly during the Principate and the relatively low military activity of the Pax Romana, were slaves condemned to the arena (damnati), to gladiator schools or games (ad ludum gladiatorium) as punishment for crimes, and the paid volunteers (auctorati) who by the late Republic may have comprised approximately half - and possibly the most capable half - of all gladiators. The use of volunteers had a precedent in the Iberian munus of Scipio Africanus; but none of those had been paid."
-    },
-    "Last Supper":
-    {
-        "language": {
-            "RU": {
-                "title": "Тайная вечеря",
-                "memoir": "И когда они ели, Иисус взял хлеб и, благословив, преломил и, раздавая ученикам, сказал: приимите, ядите: сие есть Тело Мое. И, взяв чашу и благодарив, подал им и сказал: пейте из нее все, ибо сие есть Кровь Моя Нового Завета, за многих изливаемая во оставление грехов. Сказываю же вам, что отныне не буду пить от плода сего виноградного до того дня, когда буду пить с вами новое [вино] в Царстве Отца Моего. - От Матфея 26:26-29, Синодальный перевод."
-            }
-        },
-        "insignia": "Wine", "country": "IL",
-        "memoir": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, \"Take and eat; this is my body.\" Then he took a cup, and when he had given thanks, he gave it to them, saying, \"Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.\" - Matthew 26:26-29, New International Version."
-    },
-    "Daedalus and Icarus":
-    {
-        "language": {
-            "RU": {
-                "title": "Дедал и Икар",
-                "memoir": "Дедал был изобретателем, который жил в Афинах. Говорили, что он мог подчинять природу своей воле. Минос, царь острова Крит, слышал об этой репутации и взял Дедала и его сына Икара на Крит, где он поручил им помочь построить удивительный дворец; лабиринт такой сложности, что никто не мог из него сбежать. Когда дворец был закончен, Дедал хотел вернуться на Крит со своим сыном, но царь не позволил этого. Однажды Дедал придумал план их побега и сделал крылья из перьев и воска для себя и Икара, чтобы сбежать. Сначала кажется, что план работает, но затем Икар подлетает слишком близко к солнцу, его перья опадают, и он падает и разбивается насмерть."
-            }
-        },
-        "insignia": "Wright", "country": "GR",
-        "memoir": "Daedalus was an inventor who lived in Athens. It was said he could bend nature to his will. Minos, the king of the island of Crete, had heard of this reputation and took Daedalus and his son, Icarus, to Crete where he tasks them with helping to make an astonishing palace; a labyrinth of such complexity that no one could escape from it. When the palace is completed, Daedalus wants to return to Crete with his son but the king will not allow it. One day Daedalus comes up with a plan for their escape and he fashions wings out of feathers and wax for himself and Icarus to escape by. At first it seems the plan is working, but then Icarus flies too close to the heat of the sun, his feathers fall away and he plummets to his death."
-    },
-    "Caribbean":
-    {
-        "language": {
-            "RU": {
-                "title": "Карибские острова",
-                "memoir": "Вскоре после того, как Христофор Колумб прибыл на Карибы, португальские и испанские исследователи начали претендовать на территории в Центральной и Южной Америке. Эти ранние колонии принесли золото в Европу; в частности, в Англию, Нидерланды и Францию. Эти страны надеялись основать прибыльные колонии в Карибском море. Колониальное соперничество сделало Карибское море ареной европейских войн на протяжении столетий. Колумб и первые колонисты Эспаньолы жестоко обращались с коренными народами, даже обращая в рабство детей. В 1512 году под давлением доминиканских монахов испанской короной были введены законы Бургоса, чтобы лучше защитить права коренных жителей Нового Света. Испанцы использовали форму рабства, называемую энкомьенда, когда рабы передавались конкистадорам, которым было поручено защищать и обращать своих рабов. Это имело разрушительные последствия для населения, поэтому, начиная с 1503 года, в колонию стали завозить рабов из Африки."
-            }
-        },
-        "insignia": "Ship", "country": "BS",
-        "memoir": "Soon after Christopher Columbus came to the Caribbean, both Portuguese and Spanish explorers began claiming territories in Central and South America. These early colonies brought gold to Europe; most specifically England, the Netherlands, and France. These nations hoped to establish profitable colonies in the Caribbean. Colonial rivalries made the Caribbean a cockpit for European wars for centuries. Columbus, and the early colonists of Hispaniola, treated the indigenous peoples brutally, even enslaving children. In 1512, after pressure from Dominican friars, the Laws of Burgos were introduced by the Spanish Crown to better protect the rights of the New World natives. The Spanish used a form of slavery called the Encomienda, where slaves would be awarded to the conquistadors, who were charged with protecting and converting their slaves. This had a devastating impact on the population, so starting in 1503, slaves from Africa were imported to the colony."
-    },
-    "Temple of Artemis at Ephesus":
-    {
-        "language": {
-            "RU": {
-                "title": "Храм Артемиды в Эфесе",
-                "memoir": "Когда я увидел дом Артемиды, возвышавшийся над облаками, другие чудеса потеряли свой блеск, и я сказал: «Вот, кроме Олимпа, Солнце никогда не видело ничего столь величественного» - Антипатр Сидонский."
-            }
-        }, "world_wonder": { "continent": "Asia", "start": -550, "end": -323 },
-        "insignia": "Palace", "country": "TR",
-        "memoir": "When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.' - Antipater of Sidon."
-    },
-    "Mausoleum at Halicarnassus":
-    {
-        "language": {
-            "RU": {
-                "title": "Галикарнасский Мавзолей",
-                "memoir": "Надо мной в Галикарнасе лежит огромная гробница таких размеров и такой изысканной красоты, какой не может похвастаться ни один другой оттенок - Лукиан Самосатский."
-            }
-        }, "world_wonder": { "continent": "Asia", "start": -351, "end": 1494 },
-        "insignia": "Palace", "country": "TR",
-        "memoir": "A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. - Lucian of Samosata."
-    },
-    "Colossus of Rhodes":
-    {
-        "language": {
-            "RU": {
-                "title": "Колосс Родосский",
-                "memoir": "На Родосе был установлен Колосс высотой в семьдесят локтей, символизирующий Солнце… художник израсходовал на него столько бронзы, сколько казалось вероятным, чтобы создать дефицит в рудниках - Филон Византийский."
-            }
-        }, "world_wonder": { "continent": "Asia", "start": -292, "end": 654 },
-        "insignia": "Liberty", "country": "GR",
-        "memoir": "At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines. - Philo of Byzantium."
-    },
-    "Hanging Gardens of Babylon":
-    {
-        "language": {
-            "RU": {
-                "title": "Висячие сады Семирамиды",
-                "memoir": "Подъем на самый верхний этаж осуществляется по лестнице, а сбоку от нее расположены водяные машины, с помощью которых лица, специально назначенные для этой цели, постоянно привлекаются к подъему воды из Евфрата в сад - Страбон."
-            }
-        }, "world_wonder": { "continent": "Asia", "start": -600, "end": 1 },
-        "insignia": "Amphora", "country": "IQ",
-        "memoir": "The ascent to the highest story is by stairs, and at their side are water engines, by means of which persons, appointed expressly for the purpose, are continually employed in raising water from the Euphrates into the garden. - Strabo."
-    },
-    "Statue of Zeus at Olympia":
-    {
-        "language": {
-            "RU": {
-                "title": "Статуя Зевса в Олимпии",
-                "memoir": "На голове бога была оливковая корона; в правой руке он держал крылатую фигуру Победы - Самуэль Августус Митчелл."
-            }
-        }, "world_wonder": { "continent": "Europe", "start": -435, "end": 450 },
-        "insignia": "OlympicGames", "country": "GR",
-        "memoir": "Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory. - Samuel Augustus Mitchell."
-    },
-    "Lighthouse of Alexandria":
-    {
-        "language": {
-            "RU": {
-                "title": "Александрийский маяк",
-                "memoir": "Этот Маяк был центром внимания всех - Генри Дэвид Торо."
-            }
-        }, "world_wonder": { "continent": "Africa", "start": -280, "end": 1480 },
-        "insignia": "Corinth", "country": "EG",
-        "memoir": "This Lighthouse was the cynosure of all eyes. - Henry David Thoreau."
-    },
-    "Siege of Jerusalem (70 AD)":
-    {
+    "Siege of Jerusalem (70 AD)": {
         "language": {
             "RU": {
                 "title": "Осада Иерусалима (70 н.э.)",
@@ -242,18 +82,7 @@
         }, "insignia": "Corinth", "country": "IL",
         "memoir": "The Siege of Jerusalem of 70 AD was the decisive event of the First Jewish-Roman War (66-73 AD), in which the Roman army led by future emperor Titus besieged Jerusalem, the center of Jewish rebel resistance in the Roman province of Judaea. Following a five-month siege, the Romans destroyed the city and the Second Jewish Temple."
     },
-    "Vae Victis":
-    {
-        "language": {
-            "RU": {
-                "title": "Горе Побеждённым",
-                "memoir": "Согласно традиции, в 390 г. до н.э. армия Галлов во главе с Бреннусом напала на Рим, захватив весь город, за исключением капитолинового холма. Бреннус осадил холм, и, наконец, римляне попросили выкупить свой город. Бреннус потребовал 329 кг золота, и римляне согласились на его условия. Согласно жизни Плутарха Камиллуса и Ливий Аб-Урбе Кондита (Книга 5 Раздел 34-49), галлы обеспечивали баланс и веса Steelyard, которые использовались для измерения количества золота. Римляне принесли золото, но утверждали, что предоставленные веса были сфальсифицированы в пользу галлов. Римляне пожаловались Бреннусу, который взял свой меч, бросил его на вес и воскликнул, \"Горе Побеждённым!\" Ливия и Плутарх утверждают, что Камиллус впоследствии удалось победить галлов до того, как выкуп должен был быть выплачен, хотя полибий, Диодор Сикулус и более поздний отрывок из Ливи противоречит этому."
-            }
-        }, "insignia": "Corinth", "country": "IT",
-        "memoir": "According to tradition, in 390 BC, an army of Gauls led by Brennus attacked Rome, capturing all of the city except for the Capitoline Hill. Brennus besieged the hill, and finally the Romans asked to ransom their city. Brennus demanded 329 kg of gold, and the Romans agreed to his terms. According to Plutarch's Life of Camillus and Livy's Ab Urbe Condita (Book 5 Sections 34-49), the Gauls provided steelyard balances and weights, which were used to measure the amount of gold. The Romans brought the gold, but claimed that the provided weights were rigged in the Gauls' favor. The Romans complained to Brennus, who took his sword, threw it onto the weights, and exclaimed, \"Vae victis!\" The Romans thus needed to bring even more gold, as they now had to counterbalance the sword as well. Livy and Plutarch claim that Camillus subsequently succeeded in defeating the Gauls before the ransom had to be paid, although Polybius, Diodorus Siculus, and a later passage from Livy contradict this."
-    },
-    "Battle of the Teutoburg Forest":
-    {
+    "Battle of the Teutoburg Forest": {
         "language": {
             "RU": {
                 "title": "Битва в Тевтобургском лесу",
@@ -262,28 +91,16 @@
         }, "insignia": "Corinth", "country": "DE",
         "memoir": "Teutoburg Forest is commonly seen as one of the most important defeats in Roman history, bringing the triumphant period of expansion under Augustus to an abrupt end. The outcome of this battle dissuaded the Romans from their ambition of conquering Germania, and is thus considered one of the most important events in European history."
     },
-    "Trojan War":
-    {
+    "Vae Victis": {
         "language": {
             "RU": {
-                "title": "Троянская война",
-                "memoir": "Историчность Троянской войны остается открытым вопросом. Многие ученые считают, что в сказке есть историческое ядро, хотя это может означать, что гомеровские истории представляют собой слияние различных рассказов о осадах и экспедициях микенских греков во время бронзового века. Те, кто считает, что истории о троянской войне происходят из определенного исторического конфликта, обычно датируя его до 12 или 11-го века до нашей эры, часто предпочитая даты, данные эратостенесом, 1194-1184 гг. до н.э., которые примерно соответствуют археологическим доказательствам катастрофического Сжигание Трои VII, и обрушения позднего бронзового века."
+                "title": "Горе Побеждённым",
+                "memoir": "Согласно традиции, в 390 г. до н.э. армия Галлов во главе с Бреннусом напала на Рим, захватив весь город, за исключением капитолинового холма. Бреннус осадил холм, и, наконец, римляне попросили выкупить свой город. Бреннус потребовал 329 кг золота, и римляне согласились на его условия. Согласно жизни Плутарха Камиллуса и Ливий Аб-Урбе Кондита (Книга 5 Раздел 34-49), галлы обеспечивали баланс и веса Steelyard, которые использовались для измерения количества золота. Римляне принесли золото, но утверждали, что предоставленные веса были сфальсифицированы в пользу галлов. Римляне пожаловались Бреннусу, который взял свой меч, бросил его на вес и воскликнул, \"Горе Побеждённым!\" Ливия и Плутарх утверждают, что Камиллус впоследствии удалось победить галлов до того, как выкуп должен был быть выплачен, хотя полибий, Диодор Сикулус и более поздний отрывок из Ливи противоречит этому."
             }
-        }, "insignia": "Spartan", "country": "GR",
-        "memoir": "The historicity of the Trojan War remains an open question. Many scholars believe that there is a historical core to the tale, though this may simply mean that the Homeric stories are a fusion of various tales of sieges and expeditions by Mycenaean Greeks during the Bronze Age. Those who believe that the stories of the Trojan War are derived from a specific historical conflict usually date it to the 12th or 11th century BC, often preferring the dates given by Eratosthenes, 1194–1184 BC, which roughly correspond to archaeological evidence of a catastrophic burning of Troy VII,[4] and the Late Bronze Age collapse."
+        }, "insignia": "Corinth", "country": "IT",
+        "memoir": "According to tradition, in 390 BC, an army of Gauls led by Brennus attacked Rome, capturing all of the city except for the Capitoline Hill. Brennus besieged the hill, and finally the Romans asked to ransom their city. Brennus demanded 329 kg of gold, and the Romans agreed to his terms. According to Plutarch's Life of Camillus and Livy's Ab Urbe Condita (Book 5 Sections 34-49), the Gauls provided steelyard balances and weights, which were used to measure the amount of gold. The Romans brought the gold, but claimed that the provided weights were rigged in the Gauls' favor. The Romans complained to Brennus, who took his sword, threw it onto the weights, and exclaimed, \"Vae victis!\" The Romans thus needed to bring even more gold, as they now had to counterbalance the sword as well. Livy and Plutarch claim that Camillus subsequently succeeded in defeating the Gauls before the ransom had to be paid, although Polybius, Diodorus Siculus, and a later passage from Livy contradict this."
     },
-    "Great Library of Alexandria":
-    {
-        "language": {
-            "RU": {
-                "title": "Александрийская библиотека",
-                "memoir": "Мы можем бродить по раздутым стекам библиотеки Александрии, где собраны все воображение и знания; Мы можем признать в его разрушении предупреждение о том, что все, что мы собираем, будет потеряно. - Альберто Мангуэль."
-            }
-        }, "insignia": "Palace", "country": "EG",
-        "memoir": "We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost. - Alberto Manguel."
-    },
-    "Giverny Monet's Garden":
-    {
+    "Giverny Monet's Garden": {
         "language": {
             "RU": {
                 "title": "Сад Моне в Живерни",
@@ -292,28 +109,7 @@
         }, "insignia": "Amphora", "country": "FR",
         "memoir": "In this water garden you will find the famous Japanese bridge covered with wisterias, other smaller bridges, weeping willows, a bamboo wood and above all the famous nympheas which bloom all summer long. The pond and the surrounding vegetation form an enclosure separated from the surrounding countryside. Never before had a painter so shaped his subjects in nature before painting them. And so he created his works twice. Monet would find his inspiration in this water garden for more than twenty years. After the Japanese bridge series, he would devote himself to the giant decorations of the Orangerie. Always looking for mist and transparencies, Monet would dedicate himself less to flowers than to reflections in water, a kind of inverted world transfigured by the liquid element."
     },
-    "Attack on Pearl Harbor":
-    {
-        "language": {
-            "RU": {
-                "title": "Нападение на Перл-Харбор",
-                "memoir": "Атака на Пёрл-Харбор серьёзно подорвала военно-морские и военно-воздушные силы США на Тихом океане: два линкора были потеряны безвозвратно, а линкоры «Калифорния» и «Вест Вирджиния» стали вновь боеспособны только летом 1944 года. Однако, американские авианосные силы остались полностью в строю, что сказалось на ходе войны уже в июне следующего года — в ходе Битвы за Мидуэй. На Гавайях погибло 2403 американских военнослужащих и 68 гражданских лиц; японские силы потеряли 29 самолётов — а также все пять сверхмалых подводных лодок, которым не удалось нанести урон силам США. После осознания масштаба произошедшего, в городе Гонолулу и его окрестностях среди гражданского населения началась паника, поскольку гавайцы ожидали высадки японского десанта непосредственно на архипелаг. На следующий день, 8 декабря — после речи президента Франклина Рузвельта, назвавшего нападение «днём позора» — Конгресс США официально объявил войну Японской империи. Находясь под впечатлением от японского успеха, через три дня фюрер нацистской Германии Адольф Гитлер объявил войну США."
-            }
-        }, "insignia": "Ship", "country": "US",
-        "memoir": "The attack on Pearl Harbor seriously undermined the US Navy and Air Force in the Pacific: two battleships were lost forever, and the battleships California and West Virginia did not become operational again until the summer of 1944. However, the American carrier forces remained fully operational, which had an impact on the course of the war in June of the following year, during the Battle of Midway. In Hawaii, 2,403 American servicemen and 68 civilians died; the Japanese forces lost 29 aircraft - as well as all five midget submarines, which failed to cause damage to the US forces. After realizing the scale of what had happened, panic began among the civilian population in Honolulu and its environs, as the Hawaiians expected a Japanese landing directly on the archipelago. The following day, December 8 - after President Franklin Roosevelt gave a speech calling the attack a \"day of infamy\" - the U.S. Congress formally declared war on the Japanese Empire. Impressed by the Japanese success, Nazi Germany's Führer Adolf Hitler declared war on the United States three days later."
-    },
-    "Leda and the Swan":
-    {
-        "language": {
-            "RU": {
-                "title": "Леда и Лебедь",
-                "memoir": "Леда и Лебедь, сонет Уильяма Батлера Йейтса, написанный в 1923 году, напечатанный в The Dial (июнь 1924 года) и опубликованный в сборнике The Cat and the Moon and Certain Poems (1924). Стихотворение основано на греческой мифологической истории о прекрасной Леде, которая родила Елену и Клитемнестру после того, как ее изнасиловал Зевс в облике лебедя."
-            }
-        }, "insignia": "Swan", "country": "GR",
-        "memoir": "Leda and the Swan, sonnet by William Butler Yeats, composed in 1923, printed in The Dial (June 1924), and published in the collection The Cat and the Moon and Certain Poems (1924). The poem is based on the Greek mythological story of beautiful Leda, who gave birth to Helen and Clytemnestra after she was raped by Zeus in the form of a swan."
-    },
-    "Voyages of Christopher Columbus":
-    {
+    "Voyages of Christopher Columbus": {
         "setting": "La Belle Époque",
         "country": "ES", "insignia": "Compass",
         "memoir": "Between 1492 and 1504, the Italian navigator and explorer Christopher Columbus led four transatlantic maritime expeditions in the name of the Catholic Monarchs of Spain to the Caribbean and to Central and South America. These voyages led to the widespread knowledge of the New World. This breakthrough inaugurated the period known as the Age of Discovery, which saw the colonization of the Americas, a related biological exchange, and trans-Atlantic trade. These events, the effects and consequences of which persist to the present, are often cited as the beginning of the modern era.",
@@ -324,8 +120,216 @@
             }
         }
     },
-    "Fall of Western Roman Empire":
-    {
+    "American Civil War": {
+        "setting": "La Belle Époque",
+        "country": "US", "insignia": "Spartan",
+        "memoir": "Prior to the war, the North and the South had been divided for decades over the issue of slavery. Measures such as the Missouri Compromise and the Compromise of 1850 had failed to settle the issue. The Southern economy was based largely on plantation agriculture, and African American slaves did most of the work on the plantations. The Northern economy, on the other hand, relied more on manufacturing. By the 1850s abolitionism was growing in the North, causing the Southern states to fear that the federal government would attempt to end slavery. The Southern states believed that the U.S. government did not have the right to decide whether slavery should be allowed in a state. Abraham Lincoln, candidate of the explicitly antislavery Republican Party, won the 1860 presidential election.",
+        "language": {
+            "RU": {
+                "title": "Гражданская война в США",
+                "memoir": "До войны Север и Юг десятилетиями были разделены по вопросу рабства. Такие меры, как Миссурийский компромисс и Компромисс 1850 года, не смогли решить этот вопрос. Экономика Юга в основном основывалась на плантационном сельском хозяйстве, и афроамериканские рабы выполняли большую часть работы на плантациях. Экономика Севера, с другой стороны, больше полагалась на производство. К 1850-м годам на Севере росло аболиционизм, заставляя южные штаты опасаться, что федеральное правительство попытается положить конец рабству. Южные штаты считали, что правительство США не имеет права решать, следует ли разрешать рабство в штате. Авраам Линкольн, кандидат от явно антирабовладельческой Республиканской партии, победил на президентских выборах 1860 года."
+            }
+        }
+    },
+    "The Birth of a Nation": {
+        "setting": "La Belle Époque",
+        "country": "US", "insignia": "Knight",
+        "memoir": "The Birth of a Nation is a landmark of film history, lauded for its technical virtuosity. It was the first non-serial American 12-reel film ever made. Its plot, part fiction and part history, chronicles the assassination of Abraham Lincoln by John Wilkes Booth and the relationship of two families in the Civil War and Reconstruction eras over the course of several years—the pro-Union (Northern) Stonemans and the pro-Confederacy (Southern) Camerons. It was originally shown in two parts separated by an intermission, and it was the first American-made film to have a musical score for an orchestra. It helped to pioneer closeups and fadeouts, and it includes a carefully staged battle sequence with hundreds of extras made to look like thousands. It came with a 13-page Souvenir Program. It was the first motion picture to be screened inside the White House, viewed there by President Woodrow Wilson, his family, and members of his cabinet.",
+        "language": {
+            "RU": {
+                "title": "Рождение Нации",
+                "memoir": "«Рождение нации» - веха в истории кино, прославленная своей технической виртуозностью. Это был первый несерийный американский фильм на 12 катушках, когда-либо снятый. Его сюжет, отчасти выдумка, отчасти история, повествует об убийстве Авраама Линкольна Джоном Уилксом Бутом и об отношениях двух семей в эпоху Гражданской войны и Реконструкции на протяжении нескольких лет - про-Юнионистов (северных) Стоунманов и про-Конфедеративных (южных) Кэмеронов. Первоначально фильм был показан в двух частях, разделенных антрактом, и это был первый фильм американского производства с музыкальным сопровождением для оркестра. Он помог сделать крупные планы и затухания, и он включает тщательно поставленную сцену битвы с сотнями статистов, которые выглядели как тысячи. Он поставлялся с 13-страничной сувенирной программой. Это был первый фильм, показанный в Белом доме, его посмотрели там президент Вудро Вильсон, его семья и члены его кабинета."
+            }
+        }
+    },
+    "Flying Dutchman": {
+        "language": {
+            "RU": {
+                "title": "Летучий голландец",
+                "memoir": "Летучий голландец - легендарный корабль-призрак, якобы никогда не способный зайти в порт, но обреченный вечно скитаться по морю. Мифы и истории о привидениях, вероятно, возникли в 17 веке, в Золотой век Голландской Ост-Индской компании (VOC) и голландской морской мощи. Самая старая известная сохранившаяся версия легенды датируется концом 18 века. Согласно легенде, если их окликнет другой корабль, команда Летучего голландца могла попытаться отправить сообщения на землю или давно умершим людям. Сообщения о наблюдениях в 19 и 20 веках утверждали, что корабль светился призрачным светом. В океанских преданиях вид этого корабля-призрака служит предзнаменованием гибели. Обычно считалось, что Летучий голландец был грузовым судном 17 века, известным как флейт."
+            }
+        }, "insignia": "Ship", "country": "NL",
+        "memoir": "The Flying Dutchman is a legendary ghost ship, allegedly never able to make port, but doomed to sail the sea forever. The myths and ghost stories are likely to have originated from the 17th-century Golden Age of the Dutch East India Company (VOC) and of Dutch maritime power. The oldest known extant version of the legend dates from the late 18th century. According to the legend, if hailed by another ship, the crew of the Flying Dutchman might try to send messages to land, or to people long dead. Reported sightings in the 19th and 20th centuries claimed that the ship glowed with a ghostly light. In ocean lore, the sight of this phantom ship functions as a portent of doom. It was commonly believed that the Flying Dutchman was a 17th-century cargo vessel known as a fluyt."
+    },
+    "Attack on Pearl Harbor": {
+        "language": {
+            "RU": {
+                "title": "Нападение на Перл-Харбор",
+                "memoir": "Атака на Пёрл-Харбор серьёзно подорвала военно-морские и военно-воздушные силы США на Тихом океане: два линкора были потеряны безвозвратно, а линкоры «Калифорния» и «Вест Вирджиния» стали вновь боеспособны только летом 1944 года. Однако, американские авианосные силы остались полностью в строю, что сказалось на ходе войны уже в июне следующего года — в ходе Битвы за Мидуэй. На Гавайях погибло 2403 американских военнослужащих и 68 гражданских лиц; японские силы потеряли 29 самолётов — а также все пять сверхмалых подводных лодок, которым не удалось нанести урон силам США. После осознания масштаба произошедшего, в городе Гонолулу и его окрестностях среди гражданского населения началась паника, поскольку гавайцы ожидали высадки японского десанта непосредственно на архипелаг. На следующий день, 8 декабря — после речи президента Франклина Рузвельта, назвавшего нападение «днём позора» — Конгресс США официально объявил войну Японской империи. Находясь под впечатлением от японского успеха, через три дня фюрер нацистской Германии Адольф Гитлер объявил войну США."
+            }
+        }, "insignia": "Ship", "country": "US",
+        "memoir": "The attack on Pearl Harbor seriously undermined the US Navy and Air Force in the Pacific: two battleships were lost forever, and the battleships California and West Virginia did not become operational again until the summer of 1944. However, the American carrier forces remained fully operational, which had an impact on the course of the war in June of the following year, during the Battle of Midway. In Hawaii, 2,403 American servicemen and 68 civilians died; the Japanese forces lost 29 aircraft - as well as all five midget submarines, which failed to cause damage to the US forces. After realizing the scale of what had happened, panic began among the civilian population in Honolulu and its environs, as the Hawaiians expected a Japanese landing directly on the archipelago. The following day, December 8 - after President Franklin Roosevelt gave a speech calling the attack a \"day of infamy\" - the U.S. Congress formally declared war on the Japanese Empire. Impressed by the Japanese success, Nazi Germany's Führer Adolf Hitler declared war on the United States three days later."
+    },
+    "Rapa Nui": {
+        "language": {
+            "RU": {
+                "title": "Остров Пасхи",
+                "memoir": "Устная традиция гласит, что остров был впервые заселен экспедицией на двух каноэ, прибывшей из Мараэ Ренга (или Мараэ Тое Хау — также известной как Острова Кука) под руководством вождя Хоту Матуа и его капитана Туу ко Ихо. Остров был впервые исследован после того, как Хаумака увидел во сне такую ​​далекую страну; Хоту посчитал это место достойным местом для побега от соседнего вождя, которому он уже проиграл три битвы. На момент их прибытия на острове был один одинокий поселенец, Нга Таваке 'а Те Рона. После недолгого пребывания в Анакене колонисты поселились в разных частях острова. На острове родился наследник Хоту, Туу ма Хеке. Туу ко Ихо считается лидером, который принес статуи и заставил их ходить."
+            }
+        },
+        "insignia": "Amphora", "country": "CL",
+        "memoir": "Oral tradition states the island was first settled by a two-canoe expedition originating from Marae Renga (or Marae Toe Hau - otherwise known as Cook Islands), and led by the chief Hotu Matu'a and his captain Tu'u ko Iho. The island was first scouted after Haumaka dreamed of such a far-off country; Hotu deemed it a worthwhile place to flee from a neighboring chief, one to whom he had already lost three battles. At their time of arrival, the island had one lone settler, Nga Tavake 'a Te Rona. After a brief stay at Anakena, the colonists settled in different parts of the island. Hotu's heir, Tu'u ma Heke, was born on the island. Tu'u ko Iho is viewed as the leader who brought the statues and caused them to walk."
+    },
+    "Stonehenge": {
+        "language": {
+            "RU": {
+                "title": "Стоунхендж",
+                "memoir": "Стоунхендж был местом захоронения с момента своего основания и до своего расцвета в середине третьего тысячелетия до н. э. Кремационное захоронение, относящееся к периоду сарсеновых камней Стоунхенджа, вероятно, является лишь одним из многих, относящихся к более позднему периоду использования памятника, и свидетельствует о том, что он по-прежнему оставался в значительной степени владением мертвых."
+            }
+        },
+        "insignia": "Amphora", "country": "GB",
+        "memoir": "Stonehenge was a place of burial from its beginning to its zenith in the mid third millennium B.C. The cremation burial dating to Stonehenge's sarsen stones phase is likely just one of many from this later period of the monument's use and demonstrates that it was still very much a domain of the dead."
+    },
+    "Great Wall of China": {
+        "language": {
+            "RU": {
+                "title": "Великая китайская стена",
+                "memoir": "Великая Китайская стена — это ряд укреплений, которые были построены вдоль исторических северных границ древних китайских государств и императорского Китая в качестве защиты от различных кочевых групп из Евразийской степи. Несколько стен были построены еще в VII веке до нашей эры, а отдельные участки позже присоединил Цинь Шихуанди (220–206 гг. до н. э.), первый император Китая. От стены Цинь осталось немногое. Позже многие последующие династии построили и поддерживали несколько участков пограничных стен. Самые известные участки стены были построены династией Мин (1368–1644)."
+            }
+        },
+        "insignia": "NotreDame", "country": "CN",
+        "memoir": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined by Qin Shi Huang (220–206 BC), the first emperor of China. Little of the Qin wall remains. Later on, many successive dynasties built and maintained multiple stretches of border walls. The best-known sections of the wall were built by the Ming dynasty (1368–1644)."
+    },
+    "Western culture": {
+        "language": {
+            "RU": {
+                "title": "Западная культура",
+                "memoir": "Исторически ученые тесно связывали идею западной культуры с классической эпохой греко-римской античности. Однако ученые также признают, что другие древние культуры, такие как Древний Египет, финикийские города-государства и несколько ближневосточных культур, стимулировали и способствовали развитию западной цивилизации. Эллинистический период также способствовал синкретизму, смешивая греческую, римскую и еврейскую культуры. Крупные достижения в литературе, инженерии и науке сформировали эллинистическую еврейскую культуру, из которой появились самые ранние христиане и греческий Новый Завет. Окончательная христианизация Европы в поздней античности гарантировала, что христианство, особенно католическая церковь, останется доминирующей силой в западной культуре на протяжении многих последующих столетий."
+            }
+        },
+        "insignia": "Spartan", "country": "EU",
+        "memoir": "Historically, scholars have closely associated the idea of Western culture with the classical era of Greco-Roman antiquity. However, scholars also acknowledge that other ancient cultures, like Ancient Egypt, the Phoenician city-states, and several Near-Eastern cultures stimulated and fostered Western civilization. The Hellenistic period also promoted syncretism, blending Greek, Roman, and Jewish cultures. Major advances in literature, engineering, and science shaped the Hellenistic Jewish culture from which the earliest Christians and the Greek New Testament emerged. The eventual Christianization of Europe in late-antiquity would ensure that Christianity, particularly the Catholic Church, remained a dominant force in Western culture for many centuries to follow."
+    },
+    "Petra": {
+        "language": {
+            "RU": {
+                "title": "Петра",
+                "memoir": "Еврейский историк Иосиф Флавий (ок. 37-100 гг. н. э.) пишет, что регион был заселен мадианитянами во времена Моисея, и что ими правили пять царей, одним из которых был Рекем. Иосиф Флавий упоминает, что город, называемый греками Петрой, «занимает самое высокое место в земле арабов» и все арабы его времени по-прежнему называли его Рекеме, в честь его царственного основателя (Древности IV. 7, 1; 4, 7). Ономастикон Евсевия также идентифицировал Рекем как Петру. Арабское слово raqama означает «отмечать, украшать», поэтому Рекеме могло быть набатейским словом, относящимся к знаменитым резным каменным фасадам. В 1964 году рабочие, расчищавшие щебень со скалы у входа в ущелье, обнаружили несколько погребальных надписей набатейским шрифтом. Одно из них было посвящено некоему Петраиосу, который родился в Ракму (Рекеме) и похоронен в Гаршу (Джераше)."
+            }
+        },
+        "insignia": "NotreDame", "country": "IL",
+        "memoir": "The Jewish historian Josephus (ca. 37-100 AD) writes that the region was inhabited by the Midianites during the time of Moses, and that they were ruled by five kings, one of whom was Rekem. Josephus mentions that the city, called Petra by the Greeks, \"ranks highest in the land of the Arabs\" and was still called Rekeme by all the Arabs of his time, after its royal founder (Antiquities iv. 7, 1; 4, 7). The Onomasticon of Eusebius also identified Rekem as Petra. Arabic raqama means \"to mark, to decorate\", so Rekeme could be a Nabataean word referring to the famous carved rock façades. In 1964, workmen clearing rubble away from the cliff at the entrance to the gorge found several funerary inscriptions in Nabatean script. One of them was to a certain Petraios who was born in Raqmu (Rekem) and buried in Garshu (Jerash)."
+    },
+    "Gladiators": {
+        "language": {
+            "RU": {
+                "title": "Гладиаторы",
+                "memoir": "Два других источника гладиаторов, которые все чаще встречались во время принципата и относительно низкой военной активности Pax Romana, были рабы, осужденные на арену (damnati), в гладиаторские школы или игры (ad ludum gladiatorium) в качестве наказания за преступления, и платные добровольцы (auctorati), которые к концу Республики могли составлять примерно половину — и, возможно, самую способную половину — всех гладиаторов. Использование добровольцев имело прецедент в иберийском munus Сципиона Африканского; но никто из них не получал плату."
+            }
+        },
+        "insignia": "Colosseum", "country": "IT",
+        "memoir": "Two other sources of gladiators, found increasingly during the Principate and the relatively low military activity of the Pax Romana, were slaves condemned to the arena (damnati), to gladiator schools or games (ad ludum gladiatorium) as punishment for crimes, and the paid volunteers (auctorati) who by the late Republic may have comprised approximately half - and possibly the most capable half - of all gladiators. The use of volunteers had a precedent in the Iberian munus of Scipio Africanus; but none of those had been paid."
+    },
+    "Last Supper": {
+        "language": {
+            "RU": {
+                "title": "Тайная вечеря",
+                "memoir": "И когда они ели, Иисус взял хлеб и, благословив, преломил и, раздавая ученикам, сказал: приимите, ядите: сие есть Тело Мое. И, взяв чашу и благодарив, подал им и сказал: пейте из нее все, ибо сие есть Кровь Моя Нового Завета, за многих изливаемая во оставление грехов. Сказываю же вам, что отныне не буду пить от плода сего виноградного до того дня, когда буду пить с вами новое [вино] в Царстве Отца Моего. - От Матфея 26:26-29, Синодальный перевод."
+            }
+        },
+        "insignia": "Wine", "country": "IL",
+        "memoir": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, \"Take and eat; this is my body.\" Then he took a cup, and when he had given thanks, he gave it to them, saying, \"Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.\" - Matthew 26:26-29, New International Version."
+    },
+    "Daedalus and Icarus": {
+        "language": {
+            "RU": {
+                "title": "Дедал и Икар",
+                "memoir": "Дедал был изобретателем, который жил в Афинах. Говорили, что он мог подчинять природу своей воле. Минос, царь острова Крит, слышал об этой репутации и взял Дедала и его сына Икара на Крит, где он поручил им помочь построить удивительный дворец; лабиринт такой сложности, что никто не мог из него сбежать. Когда дворец был закончен, Дедал хотел вернуться на Крит со своим сыном, но царь не позволил этого. Однажды Дедал придумал план их побега и сделал крылья из перьев и воска для себя и Икара, чтобы сбежать. Сначала кажется, что план работает, но затем Икар подлетает слишком близко к солнцу, его перья опадают, и он падает и разбивается насмерть."
+            }
+        },
+        "insignia": "Wright", "country": "GR",
+        "memoir": "Daedalus was an inventor who lived in Athens. It was said he could bend nature to his will. Minos, the king of the island of Crete, had heard of this reputation and took Daedalus and his son, Icarus, to Crete where he tasks them with helping to make an astonishing palace; a labyrinth of such complexity that no one could escape from it. When the palace is completed, Daedalus wants to return to Crete with his son but the king will not allow it. One day Daedalus comes up with a plan for their escape and he fashions wings out of feathers and wax for himself and Icarus to escape by. At first it seems the plan is working, but then Icarus flies too close to the heat of the sun, his feathers fall away and he plummets to his death."
+    },
+    "Temple of Artemis at Ephesus": {
+        "language": {
+            "RU": {
+                "title": "Храм Артемиды в Эфесе",
+                "memoir": "Когда я увидел дом Артемиды, возвышавшийся над облаками, другие чудеса потеряли свой блеск, и я сказал: «Вот, кроме Олимпа, Солнце никогда не видело ничего столь величественного» - Антипатр Сидонский."
+            }
+        }, "world_wonder": { "continent": "Asia", "start": -550, "end": -323 },
+        "insignia": "Palace", "country": "TR",
+        "memoir": "When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.' - Antipater of Sidon."
+    },
+    "Ishtar Gate": {
+        "language": {
+            "RU": {
+                "title": "Ворота Иштар",
+                "memoir": "Царь Навуходоносор II правил в 604-562 гг. до н. э., в период расцвета Нововавилонской империи. Он известен как библейский завоеватель, захвативший Иерусалим. Он приказал построить ворота и посвятил их вавилонской богине Иштар. Ворота были построены из глазурованного кирпича с чередующимися рядами барельефов mušḫuššu (драконов), aurochs (быков) и львов, символизирующих богов Мардука, Адада и Иштар соответственно."
+            }
+        },
+        "insignia": "SunKing", "country": "IQ",
+        "memoir": "King Nebuchadnezzar II reigned 604-562 BC, the peak of the Neo-Babylonian Empire. He is known as the biblical conqueror who captured Jerusalem. He ordered the construction of the gate and dedicated it to the Babylonian goddess Ishtar. The gate was constructed using glazed brick with alternating rows of bas-relief mušḫuššu (dragons), aurochs (bulls), and lions, symbolizing the gods Marduk, Adad, and Ishtar respectively."
+    },
+    "Mausoleum at Halicarnassus": {
+        "language": {
+            "RU": {
+                "title": "Галикарнасский Мавзолей",
+                "memoir": "Надо мной в Галикарнасе лежит огромная гробница таких размеров и такой изысканной красоты, какой не может похвастаться ни один другой оттенок - Лукиан Самосатский."
+            }
+        }, "world_wonder": { "continent": "Asia", "start": -351, "end": 1494 },
+        "insignia": "Palace", "country": "TR",
+        "memoir": "A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. - Lucian of Samosata."
+    },
+    "Colossus of Rhodes": {
+        "language": {
+            "RU": {
+                "title": "Колосс Родосский",
+                "memoir": "На Родосе был установлен Колосс высотой в семьдесят локтей, символизирующий Солнце… художник израсходовал на него столько бронзы, сколько казалось вероятным, чтобы создать дефицит в рудниках - Филон Византийский."
+            }
+        }, "world_wonder": { "continent": "Asia", "start": -292, "end": 654 },
+        "insignia": "Liberty", "country": "GR",
+        "memoir": "At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines. - Philo of Byzantium."
+    },
+    "Caribbean": {
+        "language": {
+            "RU": {
+                "title": "Карибские острова",
+                "memoir": "Вскоре после того, как Христофор Колумб прибыл на Карибы, португальские и испанские исследователи начали претендовать на территории в Центральной и Южной Америке. Эти ранние колонии принесли золото в Европу; в частности, в Англию, Нидерланды и Францию. Эти страны надеялись основать прибыльные колонии в Карибском море. Колониальное соперничество сделало Карибское море ареной европейских войн на протяжении столетий. Колумб и первые колонисты Эспаньолы жестоко обращались с коренными народами, даже обращая в рабство детей. В 1512 году под давлением доминиканских монахов испанской короной были введены законы Бургоса, чтобы лучше защитить права коренных жителей Нового Света. Испанцы использовали форму рабства, называемую энкомьенда, когда рабы передавались конкистадорам, которым было поручено защищать и обращать своих рабов. Это имело разрушительные последствия для населения, поэтому, начиная с 1503 года, в колонию стали завозить рабов из Африки."
+            }
+        },
+        "insignia": "Ship", "country": "BS",
+        "memoir": "Soon after Christopher Columbus came to the Caribbean, both Portuguese and Spanish explorers began claiming territories in Central and South America. These early colonies brought gold to Europe; most specifically England, the Netherlands, and France. These nations hoped to establish profitable colonies in the Caribbean. Colonial rivalries made the Caribbean a cockpit for European wars for centuries. Columbus, and the early colonists of Hispaniola, treated the indigenous peoples brutally, even enslaving children. In 1512, after pressure from Dominican friars, the Laws of Burgos were introduced by the Spanish Crown to better protect the rights of the New World natives. The Spanish used a form of slavery called the Encomienda, where slaves would be awarded to the conquistadors, who were charged with protecting and converting their slaves. This had a devastating impact on the population, so starting in 1503, slaves from Africa were imported to the colony."
+    },
+    "Hanging Gardens of Babylon": {
+        "language": {
+            "RU": {
+                "title": "Висячие сады Семирамиды",
+                "memoir": "Подъем на самый верхний этаж осуществляется по лестнице, а сбоку от нее расположены водяные машины, с помощью которых лица, специально назначенные для этой цели, постоянно привлекаются к подъему воды из Евфрата в сад - Страбон."
+            }
+        }, "world_wonder": { "continent": "Asia", "start": -600, "end": 1 },
+        "insignia": "Amphora", "country": "IQ",
+        "memoir": "The ascent to the highest story is by stairs, and at their side are water engines, by means of which persons, appointed expressly for the purpose, are continually employed in raising water from the Euphrates into the garden. - Strabo."
+    },
+    "Statue of Zeus at Olympia": {
+        "language": {
+            "RU": {
+                "title": "Статуя Зевса в Олимпии",
+                "memoir": "На голове бога была оливковая корона; в правой руке он держал крылатую фигуру Победы - Самуэль Августус Митчелл."
+            }
+        }, "world_wonder": { "continent": "Europe", "start": -435, "end": 450 },
+        "insignia": "OlympicGames", "country": "GR",
+        "memoir": "Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory. - Samuel Augustus Mitchell."
+    },
+    "Lighthouse of Alexandria": {
+        "language": {
+            "RU": {
+                "title": "Александрийский маяк",
+                "memoir": "Этот Маяк был центром внимания всех - Генри Дэвид Торо."
+            }
+        }, "world_wonder": { "continent": "Africa", "start": -280, "end": 1480 },
+        "insignia": "Corinth", "country": "EG",
+        "memoir": "This Lighthouse was the cynosure of all eyes. - Henry David Thoreau."
+    },
+    "Great Library of Alexandria": {
+        "language": {
+            "RU": {
+                "title": "Александрийская библиотека",
+                "memoir": "Мы можем бродить по раздутым стекам библиотеки Александрии, где собраны все воображение и знания; Мы можем признать в его разрушении предупреждение о том, что все, что мы собираем, будет потеряно. - Альберто Мангуэль."
+            }
+        }, "insignia": "Palace", "country": "EG",
+        "memoir": "We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost. - Alberto Manguel."
+    },
+    "Fall of Western Roman Empire": {
         "language": {
             "RU": {
                 "title": "Падение Западной Римской империи",
