@@ -17,6 +17,15 @@
             "RU": { "title": "Ана де Армас" }
         }
     },
+    "Brigitte Bardot": {
+        "height": 1.66, "weight": 57,
+        "sizes": "89-63-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "FR",
+        "birthday": "September 28, 1934",
+        "language": {
+            "RU": { "title": "Брижит Бардо" }
+        }
+    },
     "Titanomachy": {
         "insignia": "Spartan", "country": "GR",
         "memoir": "One of the most significant events in Greek mythology is the Titanomachy. Known as the \"Titan Wars,\" the ten-year conflict pitted the new Olympian gods against the classical gods of old. The Titanomachy is significant because it paves the way for a new era of gods in Greek mythology.",
