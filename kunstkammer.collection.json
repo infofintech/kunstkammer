@@ -30,7 +30,7 @@
         }
     },
     "001": {
-        "title": "Voyages of Christopher Columbus",
+        "title": "Viaggi di Cristoforo Colombo",
         "language": {
             "CH": "Periodus Historium Columbus",
             "FR": "Les voyages de Christophe Colomb",
@@ -43,7 +43,6 @@
             "MD": "Călătoriile lui Cristofor Columb",
             "DE": "Reisen von Christoph Kolumbus",
             "AT": "Reisen von Christoph Kolumbus",
-            "IT": "I viaggi di Cristoforo Colombo",
             "TR": "Kristof Kolomb'un Yolculukları",
             "GR": "Μεγάλες γεωγραφικές ανακαλύψεις",
             "CY": "Μεγάλες γεωγραφικές ανακαλύψεις",
@@ -62,20 +61,20 @@
         }
     },
     "002": {
-        "title": "Seven Wonders of the Ancient World",
+        "title": "7 Wonders of the Ancient World",
         "language": {
             "CH": "Periodus Historium Antiquitas",
-            "FR": "Les sept merveilles du monde antique",
-            "BE": "Les sept merveilles du monde antique",
-            "ES": "Las siete maravillas del mundo antiguo",
-            "MX": "Las siete maravillas del mundo antiguo",
-            "PT": "Sete maravilhas do mundo antigo",
-            "BR": "Sete maravilhas do mundo antigo",
-            "RO": "Șapte minuni ale lumii antice",
-            "MD": "Șapte minuni ale lumii antice",
+            "FR": "Les 7 merveilles du monde antique",
+            "BE": "Les 7 merveilles du monde antique",
+            "ES": "Las 7 maravillas del mundo antiguo",
+            "MX": "Las 7 maravillas del mundo antiguo",
+            "PT": "7 maravilhas do mundo antigo",
+            "BR": "7 maravilhas do mundo antigo",
+            "RO": "7 minuni ale lumii antice",
+            "MD": "7 minuni ale lumii antice",
             "DE": "Sieben Weltwunder der Antike",
             "AT": "Sieben Weltwunder der Antike",
-            "IT": "Le sette meraviglie del mondo antico",
+            "IT": "Le 7 meraviglie del mondo antico",
             "TR": "Antik Dünyanın Yedi Harikası",
             "GR": "Επτά θαύματα του αρχαίου κόσμου",
             "CY": "Επτά θαύματα του αρχαίου κόσμου",
