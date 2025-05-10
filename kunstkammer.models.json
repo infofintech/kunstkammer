@@ -50,6 +50,24 @@
             }
         }
     },
+    "Osmanische Reich": {
+        "insignia": "Islam", "country": "TR",
+        "memoir": "Das Osmanische Reich, ein von türkischen Stämmen in Anatolien (Kleinasien) gegründetes Reich, entwickelte sich im 15. und 16. Jahrhundert zu einem der mächtigsten Staaten der Welt. Die osmanische Herrschaft dauerte über 600 Jahre und endete erst 1922 mit der Ablösung durch die Türkische Republik und verschiedene Nachfolgestaaten in Südosteuropa und dem Nahen Osten. Auf seinem Höhepunkt umfasste das Reich den größten Teil Südosteuropas bis vor die Tore Wiens, darunter das heutige Ungarn, den Balkan, Griechenland und Teile der Ukraine; Teile des Nahen Ostens, die heute von Irak, Syrien, Israel und Ägypten besetzt sind; Nordafrika bis nach Algerien im Westen; und weite Teile der Arabischen Halbinsel. Der Begriff „osmanisch“ ist eine dynastische Bezeichnung, die von Osman I. (arabisch: ʿUthmān) abgeleitet ist, dem nomadischen turkmenischen Häuptling, der um 1300 sowohl die Dynastie als auch das Reich gründete.",
+        "language": {
+            "RU": {
+                "title": "Османская империя",
+                "memoir": "Османская империя, империя, созданная турецкими племенами в Анатолии (Малая Азия), которая выросла в одно из самых могущественных государств в мире в 15-м и 16-м веках. Османский период длился более 600 лет и закончился только в 1922 году, когда его сменила Турецкая Республика и различные государства-преемники в юго-восточной Европе и на Ближнем Востоке. На пике своего развития империя охватывала большую часть юго-восточной Европы до ворот Вены, включая современную Венгрию, Балканский регион, Грецию и части Украины; части Ближнего Востока, ныне оккупированные Ираком, Сирией, Израилем и Египтом; Северную Африку до запада до Алжира; и большие части Аравийского полуострова. Термин «Османская» — династическое наименование, происходящее от Османа I (араб.: ʿUthmān), кочевого туркменского вождя, который основал как династию, так и империю около 1300 года."
+            },
+            "GR": {
+                "title": "Οθωμανική Αυτοκρατορία",
+                "memoir": "Οθωμανική Αυτοκρατορία, αυτοκρατορία που δημιουργήθηκε από τουρκικές φυλές στην Ανατολία (Μικρά Ασία) και εξελίχθηκε σε ένα από τα πιο ισχυρά κράτη στον κόσμο κατά τον 15ο και 16ο αιώνα. Η οθωμανική περίοδος διήρκεσε περισσότερα από 600 χρόνια και έληξε μόλις το 1922, όταν αντικαταστάθηκε από την Τουρκική Δημοκρατία και διάφορα διάδοχα κράτη στη νοτιοανατολική Ευρώπη και τη Μέση Ανατολή. Στο απόγειό της, η αυτοκρατορία περιλάμβανε το μεγαλύτερο μέρος της νοτιοανατολικής Ευρώπης μέχρι τις πύλες της Βιέννης, συμπεριλαμβανομένης της σημερινής Ουγγαρίας, της περιοχής των Βαλκανίων, της Ελλάδας και τμημάτων της Ουκρανίας· τμήματα της Μέσης Ανατολής που τώρα καταλαμβάνονται από το Ιράκ, τη Συρία, το Ισραήλ και την Αίγυπτο· τη Βόρεια Αφρική μέχρι τη δυτική Αλγερία· και μεγάλα τμήματα της Αραβικής Χερσονήσου. Ο όρος Οθωμανός είναι μια δυναστική ονομασία που προέρχεται από τον Οσμάν Α΄ (αραβικά: ʿUthmān), τον νομάδα αρχηγό των Τουρκομάνων που ίδρυσε τόσο τη δυναστεία όσο και την αυτοκρατορία περίπου το 1300."
+            },
+            "CY": {
+                "title": "Οθωμανική Αυτοκρατορία",
+                "memoir": "Οθωμανική Αυτοκρατορία, αυτοκρατορία που δημιουργήθηκε από τουρκικές φυλές στην Ανατολία (Μικρά Ασία) και εξελίχθηκε σε ένα από τα πιο ισχυρά κράτη στον κόσμο κατά τον 15ο και 16ο αιώνα. Η οθωμανική περίοδος διήρκεσε περισσότερα από 600 χρόνια και έληξε μόλις το 1922, όταν αντικαταστάθηκε από την Τουρκική Δημοκρατία και διάφορα διάδοχα κράτη στη νοτιοανατολική Ευρώπη και τη Μέση Ανατολή. Στο απόγειό της, η αυτοκρατορία περιλάμβανε το μεγαλύτερο μέρος της νοτιοανατολικής Ευρώπης μέχρι τις πύλες της Βιέννης, συμπεριλαμβανομένης της σημερινής Ουγγαρίας, της περιοχής των Βαλκανίων, της Ελλάδας και τμημάτων της Ουκρανίας· τμήματα της Μέσης Ανατολής που τώρα καταλαμβάνονται από το Ιράκ, τη Συρία, το Ισραήλ και την Αίγυπτο· τη Βόρεια Αφρική μέχρι τη δυτική Αλγερία· και μεγάλα τμήματα της Αραβικής Χερσονήσου. Ο όρος Οθωμανός είναι μια δυναστική ονομασία που προέρχεται από τον Οσμάν Α΄ (αραβικά: ʿUthmān), τον νομάδα αρχηγό των Τουρκομάνων που ίδρυσε τόσο τη δυναστεία όσο και την αυτοκρατορία περίπου το 1300."
+            }
+        }
+    },
     "Leda and the Swan": {
         "insignia": "Swan", "country": "GR",
         "memoir": "Leda and the Swan, sonnet by William Butler Yeats, composed in 1923, printed in The Dial (June 1924), and published in the collection The Cat and the Moon and Certain Poems (1924). The poem is based on the Greek mythological story of beautiful Leda, who gave birth to Helen and Clytemnestra after she was raped by Zeus in the form of a swan.",
@@ -57,16 +75,32 @@
             "RU": {
                 "title": "Леда и Лебедь",
                 "memoir": "Леда и Лебедь, сонет Уильяма Батлера Йейтса, написанный в 1923 году, напечатанный в The Dial (июнь 1924 года) и опубликованный в сборнике The Cat and the Moon and Certain Poems (1924). Стихотворение основано на греческой мифологической истории о прекрасной Леде, которая родила Елену и Клитемнестру после того, как ее изнасиловал Зевс в облике лебедя."
+            },
+            "GR": {
+                "title": "Η Λήδα και ο Κύκνος",
+                "memoir": "Η Λήδα και ο Κύκνος, σονέτο του Γουίλιαμ Μπάτλερ Γέιτς, γραμμένο το 1923, τυπωμένο στο The Dial (Ιούνιος 1924) και δημοσιευμένο στο The Cat and the Moon και στο Certain Poems (1924). Το ποίημα βασίζεται στην ελληνική μυθολογία της όμορφης Λήδας, η οποία γέννησε την Ελένη και την Κλυταιμνήστρα αφού βιάστηκε από τον Δία με τη μορφή κύκνου."
+            },
+            "CY": {
+                "title": "Η Λήδα και ο Κύκνος",
+                "memoir": "Η Λήδα και ο Κύκνος, σονέτο του Γουίλιαμ Μπάτλερ Γέιτς, γραμμένο το 1923, τυπωμένο στο The Dial (Ιούνιος 1924) και δημοσιευμένο στο The Cat and the Moon και στο Certain Poems (1924). Το ποίημα βασίζεται στην ελληνική μυθολογία της όμορφης Λήδας, η οποία γέννησε την Ελένη και την Κλυταιμνήστρα αφού βιάστηκε από τον Δία με τη μορφή κύκνου."
             }
         }
     },
     "Great Pyramid of Giza": {
         "insignia": "Louvre", "country": "EG",
-        "memoir": "From the heights of these pyramids, forty centuries look down on us. - Napoleon Bonaparte.",
+        "memoir": "From the heights of these pyramids, forty centuries look down on us. - Napoleon Bonaparte. The Great Pyramid is one of the largest buildings ever constructed. It originally stood about 147 meters tall, but erosion and the removal of most of the polished limestone casing stones—which made the structure smooth and caused it to gleam in the sunlight—have lowered the pyramid’s height to 137 meters. The base and three sides each measure 230 meters in length. The pyramid’s sides rise at an angle of 51.87° and are accurately oriented to the four cardinal points of the compass. The Great Pyramid’s core is made of yellowish limestone blocks, and the inner passages are of finer light-colored limestone. The interior burial chamber is built of huge blocks of granite. Approximately 2.3 million blocks of stone were cut, transported, and assembled to create the 5.75-million-ton structure, which is a masterpiece of technical skill and engineering ability. The internal walls, as well as those few outer-casing stones that still remain in place, show finer joints than any other masonry constructed in ancient Egypt.",
         "language": {
             "RU": {
                 "title": "Пирамида Хеопса",
-                "memoir": "С высоты этих пирамид сорок веков смотрят на нас сверху вниз - Наполеон Бонапарт."
+                "memoir": "С высоты этих пирамид сорок веков смотрят на нас сверху вниз - Наполеон Бонапарт. Великая пирамида — одно из крупнейших зданий, когда-либо построенных. Первоначально ее высота составляла около 147 метров, но эрозия и удаление большей части отполированных известняковых облицовочных камней, которые сделали конструкцию гладкой и заставили ее блестеть на солнце, снизили высоту пирамиды до 137 метров. Длина основания и трех сторон составляет 230 метров. Стороны пирамиды поднимаются под углом 51,87° и точно ориентированы по четырем сторонам света. Ядро Великой пирамиды сделано из желтоватых известняковых блоков, а внутренние проходы — из более тонкого светлого известняка. Внутренняя погребальная камера построена из огромных блоков гранита. Около 2,3 миллиона каменных блоков были вырезаны, перевезены и собраны, чтобы создать 5,75-миллионотонную конструкцию, которая является шедевром технического мастерства и инженерных способностей. Внутренние стены, а также те немногие камни внешней облицовки, которые все еще сохранились, имеют более тонкие швы, чем любая другая кладка, возведенная в Древнем Египте."
+            },
+            "GR": {
+                "title": "Η Μεγάλη Πυραμίδα",
+                "memoir": "Από τα ύψη αυτών των πυραμίδων, σαράντα αιώνες μας κοιτάζουν από ψηλά. - Ναπολέων Βοναπάρτης. Η Μεγάλη Πυραμίδα είναι ένα από τα μεγαλύτερα κτίρια που κατασκευάστηκαν ποτέ. Αρχικά είχε ύψος περίπου 147 μέτρα, αλλά η διάβρωση και η αφαίρεση των περισσότερων από τις γυαλισμένες ασβεστολιθικές πέτρες επένδυσης - που έκαναν τη δομή λεία και την έκαναν να λάμπει στο φως του ήλιου - έχουν μειώσει το ύψος της πυραμίδας στα 137 μέτρα. Η βάση και οι τρεις πλευρές έχουν μήκος 230 μέτρα η καθεμία. Οι πλευρές της πυραμίδας υψώνονται σε γωνία 51,87° και είναι προσανατολισμένες με ακρίβεια στα τέσσερα βασικά σημεία της πυξίδας. Ο πυρήνας της Μεγάλης Πυραμίδας είναι κατασκευασμένος από κιτρινωπούς ασβεστολιθικούς ογκόλιθους και τα εσωτερικά περάσματα από λεπτότερο ανοιχτόχρωμο ασβεστόλιθο. Ο εσωτερικός ταφικός θάλαμος είναι κατασκευασμένος από τεράστιους ογκόλιθους γρανίτη. Περίπου 2,3 εκατομμύρια ογκόλιθοι κόπηκαν, μεταφέρθηκαν και συναρμολογήθηκαν για να δημιουργηθεί η κατασκευή των 5,75 εκατομμυρίων τόνων, η οποία αποτελεί αριστούργημα τεχνικής δεξιοτεχνίας και μηχανικής ικανότητας. Οι εσωτερικοί τοίχοι, καθώς και οι λίγες πέτρες εξωτερικού περιβλήματος που εξακολουθούν να υπάρχουν στη θέση τους, παρουσιάζουν λεπτότερες ενώσεις από οποιαδήποτε άλλη τοιχοποιία που κατασκευάστηκε στην αρχαία Αίγυπτο."
+            },
+            "CY": {
+                "title": "Η Μεγάλη Πυραμίδα",
+                "memoir": "Από τα ύψη αυτών των πυραμίδων, σαράντα αιώνες μας κοιτάζουν από ψηλά. - Ναπολέων Βοναπάρτης. Η Μεγάλη Πυραμίδα είναι ένα από τα μεγαλύτερα κτίρια που κατασκευάστηκαν ποτέ. Αρχικά είχε ύψος περίπου 147 μέτρα, αλλά η διάβρωση και η αφαίρεση των περισσότερων από τις γυαλισμένες ασβεστολιθικές πέτρες επένδυσης - που έκαναν τη δομή λεία και την έκαναν να λάμπει στο φως του ήλιου - έχουν μειώσει το ύψος της πυραμίδας στα 137 μέτρα. Η βάση και οι τρεις πλευρές έχουν μήκος 230 μέτρα η καθεμία. Οι πλευρές της πυραμίδας υψώνονται σε γωνία 51,87° και είναι προσανατολισμένες με ακρίβεια στα τέσσερα βασικά σημεία της πυξίδας. Ο πυρήνας της Μεγάλης Πυραμίδας είναι κατασκευασμένος από κιτρινωπούς ασβεστολιθικούς ογκόλιθους και τα εσωτερικά περάσματα από λεπτότερο ανοιχτόχρωμο ασβεστόλιθο. Ο εσωτερικός ταφικός θάλαμος είναι κατασκευασμένος από τεράστιους ογκόλιθους γρανίτη. Περίπου 2,3 εκατομμύρια ογκόλιθοι κόπηκαν, μεταφέρθηκαν και συναρμολογήθηκαν για να δημιουργηθεί η κατασκευή των 5,75 εκατομμυρίων τόνων, η οποία αποτελεί αριστούργημα τεχνικής δεξιοτεχνίας και μηχανικής ικανότητας. Οι εσωτερικοί τοίχοι, καθώς και οι λίγες πέτρες εξωτερικού περιβλήματος που εξακολουθούν να υπάρχουν στη θέση τους, παρουσιάζουν λεπτότερες ενώσεις από οποιαδήποτε άλλη τοιχοποιία που κατασκευάστηκε στην αρχαία Αίγυπτο."
             }
         },
         "world_wonder": { "continent": "Africa", "start": -2584, "end": "" }
@@ -78,16 +112,24 @@
             "RU": {
                 "title": "Троянская война",
                 "memoir": "Историчность Троянской войны остается открытым вопросом. Многие ученые считают, что в сказке есть историческое ядро, хотя это может означать, что гомеровские истории представляют собой слияние различных рассказов о осадах и экспедициях микенских греков во время бронзового века. Те, кто считает, что истории о троянской войне происходят из определенного исторического конфликта, обычно датируя его до 12 или 11-го века до нашей эры, часто предпочитая даты, данные эратостенесом, 1194-1184 гг. до н.э., которые примерно соответствуют археологическим доказательствам катастрофического Сжигание Трои VII, и обрушения позднего бронзового века."
+            },
+            "GR": {
+                "title": "Τρωικού Πολέμου",
+                "memoir": "Η ιστορικότητα του Τρωικού Πολέμου παραμένει ένα ανοιχτό ερώτημα. Πολλοί μελετητές πιστεύουν ότι η ιστορία έχει ιστορικό πυρήνα, αν και αυτό μπορεί να σημαίνει ότι οι ομηρικές ιστορίες είναι μια συγχώνευση διαφόρων αφηγήσεων για τις πολιορκίες και τις εκστρατείες των Μυκηναίων Ελλήνων κατά την Εποχή του Χαλκού. Όσοι πιστεύουν ότι οι ιστορίες του Τρωικού Πολέμου προέρχονται από μια συγκεκριμένη ιστορική σύγκρουση συνήθως τον χρονολογούν στον 12ο ή 11ο αιώνα π.Χ., προτιμώντας συχνά τις ημερομηνίες που δίνει ο Ερατοσθένης, 1194-1184 π.Χ. π.Χ., τα οποία αντιστοιχούν περίπου σε αρχαιολογικά στοιχεία για την καταστροφική Πυρπόληση της Τροίας VII και την κατάρρευση της Ύστερης Εποχής του Χαλκού."
+            },
+            "CY": {
+                "title": "Τρωικού Πολέμου",
+                "memoir": "Η ιστορικότητα του Τρωικού Πολέμου παραμένει ένα ανοιχτό ερώτημα. Πολλοί μελετητές πιστεύουν ότι η ιστορία έχει ιστορικό πυρήνα, αν και αυτό μπορεί να σημαίνει ότι οι ομηρικές ιστορίες είναι μια συγχώνευση διαφόρων αφηγήσεων για τις πολιορκίες και τις εκστρατείες των Μυκηναίων Ελλήνων κατά την Εποχή του Χαλκού. Όσοι πιστεύουν ότι οι ιστορίες του Τρωικού Πολέμου προέρχονται από μια συγκεκριμένη ιστορική σύγκρουση συνήθως τον χρονολογούν στον 12ο ή 11ο αιώνα π.Χ., προτιμώντας συχνά τις ημερομηνίες που δίνει ο Ερατοσθένης, 1194-1184 π.Χ. π.Χ., τα οποία αντιστοιχούν περίπου σε αρχαιολογικά στοιχεία για την καταστροφική Πυρπόληση της Τροίας VII και την κατάρρευση της Ύστερης Εποχής του Χαλκού."
             }
         }
     },
     "Siege of Jerusalem (70 AD)": {
         "insignia": "Corinth", "country": "IL",
-        "memoir": "The Siege of Jerusalem of 70 AD was the decisive event of the First Jewish-Roman War (66-73 AD), in which the Roman army led by future emperor Titus besieged Jerusalem, the center of Jewish rebel resistance in the Roman province of Judaea. Following a five-month siege, the Romans destroyed the city and the Second Jewish Temple.",
+        "memoir": "At that time some Pharisees came to Jesus and said to him, \"Leave this place and go somewhere else. Herod wants to kill you.\" He replied, \"Go tell that fox, 'I will keep on driving out demons and healing people today and tomorrow, and on the third day I will reach my goal.' In any case, I must press on today and tomorrow and the next day - for surely no prophet can die outside Jerusalem! \"Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing. Look, your house is left to you desolate. I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'\" - Luke 13:31-35, New International Version.",
         "language": {
             "RU": {
                 "title": "Осада Иерусалима (70 н.э.)",
-                "memoir": "Осада Иерусалима 70 г. н.э. была решающим событием первой еврейско-римской войны (66-73 гг.) Полем После пятимесячной осады римляне уничтожили город и второй еврейский храм."
+                "memoir": "В тот день пришли некоторые из фарисеев и говорили Ему: выйди и удались отсюда, ибо Ирод хочет убить Тебя. И сказал им: пойдите, скажите этой лисице: се, изгоняю бесов и совершаю исцеления сегодня и завтра, и в третий [день] кончу; а впрочем, Мне должно ходить сегодня, завтра и в последующий день, потому что не бывает, чтобы пророк погиб вне Иерусалима. Иерусалим! Иерусалим! избивающий пророков и камнями побивающий посланных к тебе! сколько раз хотел Я собрать чад твоих, как птица птенцов своих под крылья, и вы не захотели! Се, оставляется вам дом ваш пуст. Сказываю же вам, что вы не увидите Меня, пока не придет время, когда скажете: благословен Грядый во имя Господне! - От Луки 13:31-35, Синодальный перевод."
             }
         }
     },
@@ -198,6 +240,10 @@
             "RU": {
                 "title": "Стоунхендж",
                 "memoir": "Стоунхендж был местом захоронения с момента своего основания и до своего расцвета в середине третьего тысячелетия до н. э. Кремационное захоронение, относящееся к периоду сарсеновых камней Стоунхенджа, вероятно, является лишь одним из многих, относящихся к более позднему периоду использования памятника, и свидетельствует о том, что он по-прежнему оставался в значительной степени владением мертвых."
+            },
+            "IE": {
+                "title": "Stonehenge",
+                "memoir": "Ba láthair adhlactha é Stonehenge ó bunaíodh é go dtí a bhuaicphointe i lár an tríú mílaoise R.Ch. e. Is dócha nach bhfuil san adhlacadh créamtha, a théann siar go dtí ré Sarsen Stonehenge, ach ceann amháin i measc go leor a théann siar go dtí an tréimhse níos déanaí d’úsáid an tséadchomhartha, agus léiríonn sé gur fhan sé i réim na marbh den chuid is mó."
             }
         }
     },
@@ -208,6 +254,10 @@
             "RU": {
                 "title": "Великая китайская стена",
                 "memoir": "Великая Китайская стена — это ряд укреплений, которые были построены вдоль исторических северных границ древних китайских государств и императорского Китая в качестве защиты от различных кочевых групп из Евразийской степи. Несколько стен были построены еще в VII веке до нашей эры, а отдельные участки позже присоединил Цинь Шихуанди (220–206 гг. до н. э.), первый император Китая. От стены Цинь осталось немногое. Позже многие последующие династии построили и поддерживали несколько участков пограничных стен. Самые известные участки стены были построены династией Мин (1368–1644)."
+            },
+            "CN": {
+                "title": "中国长城",
+                "memoir": "中国的长城是沿着古代中国国家和中国帝国的历史北部边界修建的一系列防御工事，用于防御来自欧亚草原的各种游牧群体。早在公元前 7 世纪就已修建了几座城墙，后来中国第一位皇帝秦始皇（公元前 220-206 年）又增建了一些部分。秦长城遗迹不多。后来，许多朝代都修建并维护了几段边境墙。最著名的长城段建于明朝（1368-1644 年）。"
             }
         }
     },
@@ -215,9 +265,105 @@
         "insignia": "Spartan", "country": "EU",
         "memoir": "Historically, scholars have closely associated the idea of Western culture with the classical era of Greco-Roman antiquity. However, scholars also acknowledge that other ancient cultures, like Ancient Egypt, the Phoenician city-states, and several Near-Eastern cultures stimulated and fostered Western civilization. The Hellenistic period also promoted syncretism, blending Greek, Roman, and Jewish cultures. Major advances in literature, engineering, and science shaped the Hellenistic Jewish culture from which the earliest Christians and the Greek New Testament emerged. The eventual Christianization of Europe in late-antiquity would ensure that Christianity, particularly the Catholic Church, remained a dominant force in Western culture for many centuries to follow.",
         "language": {
+            "FR": {
+                "title": "Culture Occidentale",
+                "memoir": "Historiquement, les chercheurs ont étroitement lié l’idée de la culture occidentale à l’époque classique de l’Antiquité gréco-romaine. Cependant, les chercheurs reconnaissent également que d’autres cultures anciennes, telles que l’Égypte ancienne, les cités-États phéniciennes et plusieurs cultures du Moyen-Orient, ont stimulé et contribué au développement de la civilisation occidentale. La période hellénistique a également favorisé le syncrétisme, mélangeant les cultures grecque, romaine et juive. Des avancées majeures dans la littérature, l’ingénierie et la science ont façonné la culture juive hellénistique d’où sont issus les premiers chrétiens et le Nouveau Testament grec. La christianisation finale de l’Europe à la fin de l’Antiquité a assuré que le christianisme, en particulier l’Église catholique, resterait la force dominante de la culture occidentale pendant de nombreux siècles à venir."
+            },
+            "BE": {
+                "title": "Culture Occidentale",
+                "memoir": "Historiquement, les chercheurs ont étroitement lié l’idée de la culture occidentale à l’époque classique de l’Antiquité gréco-romaine. Cependant, les chercheurs reconnaissent également que d’autres cultures anciennes, telles que l’Égypte ancienne, les cités-États phéniciennes et plusieurs cultures du Moyen-Orient, ont stimulé et contribué au développement de la civilisation occidentale. La période hellénistique a également favorisé le syncrétisme, mélangeant les cultures grecque, romaine et juive. Des avancées majeures dans la littérature, l’ingénierie et la science ont façonné la culture juive hellénistique d’où sont issus les premiers chrétiens et le Nouveau Testament grec. La christianisation finale de l’Europe à la fin de l’Antiquité a assuré que le christianisme, en particulier l’Église catholique, resterait la force dominante de la culture occidentale pendant de nombreux siècles à venir."
+            },
+            "ES": {
+                "title": "Cultura Occidental",
+                "memoir": "Históricamente, los estudiosos han vinculado estrechamente la idea de la cultura occidental con la era clásica de la antigüedad grecorromana. Sin embargo, los estudiosos también reconocen que otras culturas antiguas, como el antiguo Egipto, las ciudades-estado fenicias y varias culturas del Medio Oriente, estimularon y contribuyeron al desarrollo de la civilización occidental. El período helenístico también promovió el sincretismo, mezclando las culturas griega, romana y judía. Los grandes avances en la literatura, la ingeniería y la ciencia dieron forma a la cultura judía helenística de la que surgieron los primeros cristianos y el Nuevo Testamento griego. La cristianización final de Europa a finales de la Antigüedad garantizó que el cristianismo, especialmente la Iglesia Católica, seguiría siendo la fuerza dominante en la cultura occidental durante muchos siglos más."
+            },
+            "MX": {
+                "title": "Cultura Occidental",
+                "memoir": "Históricamente, los estudiosos han vinculado estrechamente la idea de la cultura occidental con la era clásica de la antigüedad grecorromana. Sin embargo, los estudiosos también reconocen que otras culturas antiguas, como el antiguo Egipto, las ciudades-estado fenicias y varias culturas del Medio Oriente, estimularon y contribuyeron al desarrollo de la civilización occidental. El período helenístico también promovió el sincretismo, mezclando las culturas griega, romana y judía. Los grandes avances en la literatura, la ingeniería y la ciencia dieron forma a la cultura judía helenística de la que surgieron los primeros cristianos y el Nuevo Testamento griego. La cristianización final de Europa a finales de la Antigüedad garantizó que el cristianismo, especialmente la Iglesia Católica, seguiría siendo la fuerza dominante en la cultura occidental durante muchos siglos más."
+            },
+            "PT": {
+                "title": "Cultura Ocidental",
+                "memoir": "Historicamente, os estudiosos ligaram intimamente a ideia de cultura ocidental com a era clássica da antiguidade greco-romana. No entanto, os estudiosos reconhecem também que outras culturas antigas, como o antigo Egipto, as cidades-estado fenícias e várias culturas do Médio Oriente, estimularam e contribuíram para o desenvolvimento da civilização ocidental. O período helenístico promoveu também o sincretismo, misturando as culturas grega, romana e judaica. Grandes avanços na literatura, na engenharia e na ciência moldaram a cultura judaica helenística da qual surgiram os primeiros cristãos e o Novo Testamento grego. A cristianização final da Europa no final da Antiguidade garantiu que o cristianismo, especialmente a Igreja Católica, continuasse a ser a força dominante na cultura ocidental durante muitos séculos."
+            },
+            "BR": {
+                "title": "Cultura Ocidental",
+                "memoir": "Historicamente, os estudiosos vincularam intimamente a ideia de cultura ocidental com a era clássica da antiguidade greco-romana. No entanto, os estudiosos também reconhecem que outras culturas antigas, como o antigo Egito, as cidades-estado fenícias e várias culturas do Oriente Médio, estimularam e contribuíram para o desenvolvimento da civilização ocidental. O período helenístico também promoveu o sincretismo, misturando as culturas grega, romana e judaica. Grandes avanços na literatura, engenharia e ciência moldaram a cultura judaica helenística da qual surgiram os primeiros cristãos e o Novo Testamento grego. A cristianização final da Europa no final da Antiguidade garantiu que o cristianismo, especialmente a Igreja Católica, continuasse sendo a força dominante na cultura ocidental por muitos séculos."
+            },
+            "IT": {
+                "title": "Cultura Occidentale",
+                "memoir": "Storicamente, gli studiosi hanno strettamente collegato l'idea di cultura occidentale con l'epoca classica dell'antichità greco-romana. Tuttavia, gli studiosi riconoscono anche che altre culture antiche, come l'antico Egitto, le città-stato fenicie e diverse culture mediorientali, hanno stimolato e contribuito allo sviluppo della civiltà occidentale. Il periodo ellenistico promosse anche il sincretismo, mescolando la cultura greca, romana ed ebraica. Grandi progressi nella letteratura, nell'ingegneria e nella scienza plasmarono la cultura ebraica ellenistica, da cui emersero i primi cristiani e il Nuovo Testamento in greco. La cristianizzazione definitiva dell'Europa nella tarda antichità fece sì che il cristianesimo, in particolare la Chiesa cattolica, rimanesse la forza dominante nella cultura occidentale per molti secoli a venire."
+            },
+            "DE": {
+                "title": "Westliche Kultur",
+                "memoir": "Historisch gesehen haben Wissenschaftler die Idee der westlichen Kultur eng mit der klassischen Ära der griechisch-römischen Antike verknüpft. Wissenschaftler erkennen jedoch auch an, dass andere antike Kulturen, wie etwa das alte Ägypten, die phönizischen Stadtstaaten und mehrere Kulturen des Nahen Ostens, die Entwicklung der westlichen Zivilisation stimuliert und dazu beigetragen haben. Die hellenistische Periode förderte auch den Synkretismus, also die Vermischung griechischer, römischer und jüdischer Kulturen. Große Fortschritte in Literatur, Technik und Wissenschaft prägten die hellenistisch-jüdische Kultur, aus der die ersten Christen und das griechische Neue Testament hervorgingen. Die endgültige Christianisierung Europas in der Spätantike stellte sicher, dass das Christentum, insbesondere die katholische Kirche, für viele Jahrhunderte die dominierende Kraft in der westlichen Kultur bleiben würde."
+            },
+            "AT": {
+                "title": "Westliche Kultur",
+                "memoir": "Historisch gesehen haben Wissenschaftler die Idee der westlichen Kultur eng mit der klassischen Ära der griechisch-römischen Antike verknüpft. Wissenschaftler erkennen jedoch auch an, dass andere antike Kulturen, wie etwa das alte Ägypten, die phönizischen Stadtstaaten und mehrere Kulturen des Nahen Ostens, die Entwicklung der westlichen Zivilisation stimuliert und dazu beigetragen haben. Die hellenistische Periode förderte auch den Synkretismus, also die Vermischung griechischer, römischer und jüdischer Kulturen. Große Fortschritte in Literatur, Technik und Wissenschaft prägten die hellenistisch-jüdische Kultur, aus der die ersten Christen und das griechische Neue Testament hervorgingen. Die endgültige Christianisierung Europas in der Spätantike stellte sicher, dass das Christentum, insbesondere die katholische Kirche, für viele Jahrhunderte die dominierende Kraft in der westlichen Kultur bleiben würde."
+            },
+            "NL": {
+                "title": "Westerse cultuur",
+                "memoir": "Historisch gezien verbinden wetenschappers het idee van de westerse cultuur nauw met het klassieke tijdperk van de Grieks-Romeinse oudheid. Wetenschappers erkennen echter ook dat andere oude culturen, zoals het oude Egypte, de Fenicische stadstaten en verschillende culturen uit het Midden-Oosten, een stimulans waren voor en bijdroegen aan de ontwikkeling van de westerse beschaving. Ook in de Hellenistische periode was er sprake van syncretisme, een vermenging van Griekse, Romeinse en Joodse culturen. Belangrijke ontwikkelingen in de literatuur, techniek en wetenschap gaven vorm aan de Hellenistische Joodse cultuur, waaruit de eerste christenen en het Griekse Nieuwe Testament voortkwamen. De uiteindelijke kerstening van Europa aan het einde van de Oudheid zorgde ervoor dat het christendom, en dan met name de katholieke kerk, nog vele eeuwen lang de dominante kracht in de westerse cultuur zou blijven."
+            },
+            "RS": {
+                "title": "Западна култура",
+                "memoir": "Историјски гледано, научници су уско повезивали идеју западне културе са класичним доба грчко-римске антике. Међутим, научници такође признају да су и друге древне културе, попут древног Египта, феничанских градова-држава и неколико блискоисточних култура, стимулисале и допринеле развоју западне цивилизације. Хеленистички период је такође промовисао синкретизам, мешање грчке, римске и јеврејске културе. Велики напредак у књижевности, инжењерству и науци обликовао је хеленистичку јеврејску културу из које су настали најранији хришћани и грчки Нови завет. Коначна хришћанизација Европе у касној антици осигурала је да ће хришћанство, посебно Католичка црква, остати доминантна сила у западној култури током многих векова који долазе."
+            },
             "RU": {
                 "title": "Западная культура",
                 "memoir": "Исторически ученые тесно связывали идею западной культуры с классической эпохой греко-римской античности. Однако ученые также признают, что другие древние культуры, такие как Древний Египет, финикийские города-государства и несколько ближневосточных культур, стимулировали и способствовали развитию западной цивилизации. Эллинистический период также способствовал синкретизму, смешивая греческую, римскую и еврейскую культуры. Крупные достижения в литературе, инженерии и науке сформировали эллинистическую еврейскую культуру, из которой появились самые ранние христиане и греческий Новый Завет. Окончательная христианизация Европы в поздней античности гарантировала, что христианство, особенно католическая церковь, останется доминирующей силой в западной культуре на протяжении многих последующих столетий."
+            },
+            "UA": {
+                "title": "Західна культура",
+                "memoir": "Історично вчені тісно пов'язували ідею західної культури із класичною епохою греко-римської античності. Проте вчені також визнають, що інші стародавні культури, такі як Стародавній Єгипет, фінікійські міста-держави та кілька близькосхідних культур, стимулювали та сприяли розвитку західної цивілізації. Елліністичний період також сприяв синкретизму, змішуючи грецьку, римську та єврейську культури. Великі досягнення в літературі, інженерії та науці сформували елліністичну єврейську культуру, з якої з'явилися найраніші християни та грецький Новий Завіт. Остаточна християнізація Європи в пізній античності гарантувала, що християнство, особливо католицька церква, залишиться домінуючою силою в західній культурі протягом багатьох наступних століть."
+            },
+            "GR": {
+                "title": "Δυτική κουλτούρα",
+                "memoir": "Ιστορικά, οι μελετητές έχουν συνδέσει στενά την ιδέα του δυτικού πολιτισμού με την κλασική εποχή της ελληνορωμαϊκής αρχαιότητας. Ωστόσο, οι μελετητές αναγνωρίζουν επίσης ότι άλλοι αρχαίοι πολιτισμοί, όπως η αρχαία Αίγυπτος, οι φοινικικές πόλεις-κράτη και αρκετοί πολιτισμοί της Μέσης Ανατολής, ώθησαν και συνέβαλαν στην ανάπτυξη του δυτικού πολιτισμού. Η ελληνιστική περίοδος προώθησε επίσης τον συγκρητισμό, αναμειγνύοντας ελληνικούς, ρωμαϊκούς και εβραϊκούς πολιτισμούς. Σημαντικές εξελίξεις στη λογοτεχνία, τη μηχανική και την επιστήμη διαμόρφωσαν τον ελληνιστικό εβραϊκό πολιτισμό από τον οποίο αναδύθηκαν οι πρώτοι Χριστιανοί και η ελληνική Καινή Διαθήκη. Ο τελικός εκχριστιανισμός της Ευρώπης στα τέλη της αρχαιότητας διασφάλισε ότι ο Χριστιανισμός, και ιδιαίτερα η Καθολική Εκκλησία, θα παρέμενε η κυρίαρχη δύναμη στον δυτικό πολιτισμό για πολλούς αιώνες."
+            },
+            "CY": {
+                "title": "Δυτική κουλτούρα",
+                "memoir": "Ιστορικά, οι μελετητές έχουν συνδέσει στενά την ιδέα του δυτικού πολιτισμού με την κλασική εποχή της ελληνορωμαϊκής αρχαιότητας. Ωστόσο, οι μελετητές αναγνωρίζουν επίσης ότι άλλοι αρχαίοι πολιτισμοί, όπως η αρχαία Αίγυπτος, οι φοινικικές πόλεις-κράτη και αρκετοί πολιτισμοί της Μέσης Ανατολής, ώθησαν και συνέβαλαν στην ανάπτυξη του δυτικού πολιτισμού. Η ελληνιστική περίοδος προώθησε επίσης τον συγκρητισμό, αναμειγνύοντας ελληνικούς, ρωμαϊκούς και εβραϊκούς πολιτισμούς. Σημαντικές εξελίξεις στη λογοτεχνία, τη μηχανική και την επιστήμη διαμόρφωσαν τον ελληνιστικό εβραϊκό πολιτισμό από τον οποίο αναδύθηκαν οι πρώτοι Χριστιανοί και η ελληνική Καινή Διαθήκη. Ο τελικός εκχριστιανισμός της Ευρώπης στα τέλη της αρχαιότητας διασφάλισε ότι ο Χριστιανισμός, και ιδιαίτερα η Καθολική Εκκλησία, θα παρέμενε η κυρίαρχη δύναμη στον δυτικό πολιτισμό για πολλούς αιώνες."
+            },
+            "SA": {
+                "title": "الثقافة الغربية",
+                "memoir": "تاريخيا، ربط العلماء بشكل وثيق بين فكرة الحضارة الغربية والعصر الكلاسيكي للعصور القديمة اليونانية الرومانية. ومع ذلك، يعترف العلماء أيضًا بأن الحضارات القديمة الأخرى، مثل مصر القديمة، ومدن الدول الفينيقية، والعديد من الحضارات في الشرق الأوسط، حفزت وساهمت في تطوير الحضارة الغربية. كما شجعت الفترة الهلنستية أيضًا التوفيق بين الثقافات اليونانية والرومانية واليهودية. لقد ساهمت التطورات الهامة في الأدب والهندسة والعلوم في تشكيل الثقافة اليهودية الهلنستية التي نشأ منها المسيحيون الأوائل والعهد الجديد اليوناني. لقد ضمنت المسيحية النهائية لأوروبا في أواخر العصور القديمة أن المسيحية، وخاصة الكنيسة الكاثوليكية، ستظل القوة المهيمنة في الحضارة الغربية لعدة قرون."
+            },
+            "QA": {
+                "title": "الثقافة الغربية",
+                "memoir": "تاريخيا، ربط العلماء بشكل وثيق بين فكرة الحضارة الغربية والعصر الكلاسيكي للعصور القديمة اليونانية الرومانية. ومع ذلك، يعترف العلماء أيضًا بأن الحضارات القديمة الأخرى، مثل مصر القديمة، ومدن الدول الفينيقية، والعديد من الحضارات في الشرق الأوسط، حفزت وساهمت في تطوير الحضارة الغربية. كما شجعت الفترة الهلنستية أيضًا التوفيق بين الثقافات اليونانية والرومانية واليهودية. لقد ساهمت التطورات الهامة في الأدب والهندسة والعلوم في تشكيل الثقافة اليهودية الهلنستية التي نشأ منها المسيحيون الأوائل والعهد الجديد اليوناني. لقد ضمنت المسيحية النهائية لأوروبا في أواخر العصور القديمة أن المسيحية، وخاصة الكنيسة الكاثوليكية، ستظل القوة المهيمنة في الحضارة الغربية لعدة قرون."
+            },
+            "KW": {
+                "title": "الثقافة الغربية",
+                "memoir": "تاريخيا، ربط العلماء بشكل وثيق بين فكرة الحضارة الغربية والعصر الكلاسيكي للعصور القديمة اليونانية الرومانية. ومع ذلك، يعترف العلماء أيضًا بأن الحضارات القديمة الأخرى، مثل مصر القديمة، ومدن الدول الفينيقية، والعديد من الحضارات في الشرق الأوسط، حفزت وساهمت في تطوير الحضارة الغربية. كما شجعت الفترة الهلنستية أيضًا التوفيق بين الثقافات اليونانية والرومانية واليهودية. لقد ساهمت التطورات الهامة في الأدب والهندسة والعلوم في تشكيل الثقافة اليهودية الهلنستية التي نشأ منها المسيحيون الأوائل والعهد الجديد اليوناني. لقد ضمنت المسيحية النهائية لأوروبا في أواخر العصور القديمة أن المسيحية، وخاصة الكنيسة الكاثوليكية، ستظل القوة المهيمنة في الحضارة الغربية لعدة قرون."
+            },
+            "AE": {
+                "title": "الثقافة الغربية",
+                "memoir": "تاريخيا، ربط العلماء بشكل وثيق بين فكرة الحضارة الغربية والعصر الكلاسيكي للعصور القديمة اليونانية الرومانية. ومع ذلك، يعترف العلماء أيضًا بأن الحضارات القديمة الأخرى، مثل مصر القديمة، ومدن الدول الفينيقية، والعديد من الحضارات في الشرق الأوسط، حفزت وساهمت في تطوير الحضارة الغربية. كما شجعت الفترة الهلنستية أيضًا التوفيق بين الثقافات اليونانية والرومانية واليهودية. لقد ساهمت التطورات الهامة في الأدب والهندسة والعلوم في تشكيل الثقافة اليهودية الهلنستية التي نشأ منها المسيحيون الأوائل والعهد الجديد اليوناني. لقد ضمنت المسيحية النهائية لأوروبا في أواخر العصور القديمة أن المسيحية، وخاصة الكنيسة الكاثوليكية، ستظل القوة المهيمنة في الحضارة الغربية لعدة قرون."
+            },
+            "IR": {
+                "title": "الثقافة الغربية",
+                "memoir": "تاريخيا، ربط العلماء بشكل وثيق بين فكرة الحضارة الغربية والعصر الكلاسيكي للعصور القديمة اليونانية الرومانية. ومع ذلك، يعترف العلماء أيضًا بأن الحضارات القديمة الأخرى، مثل مصر القديمة، ومدن الدول الفينيقية، والعديد من الحضارات في الشرق الأوسط، حفزت وساهمت في تطوير الحضارة الغربية. كما شجعت الفترة الهلنستية أيضًا التوفيق بين الثقافات اليونانية والرومانية واليهودية. لقد ساهمت التطورات الهامة في الأدب والهندسة والعلوم في تشكيل الثقافة اليهودية الهلنستية التي نشأ منها المسيحيون الأوائل والعهد الجديد اليوناني. لقد ضمنت المسيحية النهائية لأوروبا في أواخر العصور القديمة أن المسيحية، وخاصة الكنيسة الكاثوليكية، ستظل القوة المهيمنة في الحضارة الغربية لعدة قرون."
+            },
+            "IQ": {
+                "title": "الثقافة الغربية",
+                "memoir": "تاريخيا، ربط العلماء بشكل وثيق بين فكرة الحضارة الغربية والعصر الكلاسيكي للعصور القديمة اليونانية الرومانية. ومع ذلك، يعترف العلماء أيضًا بأن الحضارات القديمة الأخرى، مثل مصر القديمة، ومدن الدول الفينيقية، والعديد من الحضارات في الشرق الأوسط، حفزت وساهمت في تطوير الحضارة الغربية. كما شجعت الفترة الهلنستية أيضًا التوفيق بين الثقافات اليونانية والرومانية واليهودية. لقد ساهمت التطورات الهامة في الأدب والهندسة والعلوم في تشكيل الثقافة اليهودية الهلنستية التي نشأ منها المسيحيون الأوائل والعهد الجديد اليوناني. لقد ضمنت المسيحية النهائية لأوروبا في أواخر العصور القديمة أن المسيحية، وخاصة الكنيسة الكاثوليكية، ستظل القوة المهيمنة في الحضارة الغربية لعدة قرون."
+            },
+            "IL": {
+                "title": "תרבות מערבית",
+                "memoir": "מבחינה היסטורית, חוקרים קישרו קשר הדוק בין רעיון הציוויליזציה המערבית לתקופה הקלאסית של העת העתיקה היוונית-רומית. עם זאת, חוקרים מכירים גם בכך שתרבויות עתיקות אחרות, כמו מצרים העתיקה, ערי המדינות הפיניקיות וכמה תרבויות מזרח תיכוניות, עודדו ותרמו להתפתחות הציוויליזציה המערבית. התקופה ההלניסטית קידמה גם סינקרטיזם, וערבוב תרבויות יווניות, רומיות ויהודיות. התפתחויות משמעותיות בספרות, בהנדסה ובמדע עיצבו את התרבות היהודית ההלניסטית שממנה צמחו הנוצרים הראשונים והברית החדשה היוונית. הנצרות הסופית של אירופה בשלהי העת העתיקה הבטיחה שהנצרות, ובמיוחד הכנסייה הקתולית, יישארו הכוח הדומיננטי בציוויליזציה המערבית במשך מאות שנים."
+            },
+            "JP": {
+                "title": "西洋文化",
+                "memoir": "歴史的に、学者たちは西洋文明の考え方を古代ギリシャ・ローマの古典時代と密接に関連させてきました。しかし、学者たちは古代エジプト、フェニキアの都市国家、いくつかの中東文明など、他の古代文明も西洋文明の発展を促し、貢献したことを認めています。ヘレニズム時代にはギリシャ、ローマ、ユダヤの文化が融合するシンクレティズムも促進されました。文学、工学、科学における大きな発展がヘレニズム時代のユダヤ文化を形作り、そこから初期のキリスト教徒やギリシャ語新約聖書が誕生しました。古代後期におけるヨーロッパの最終的なキリスト教化により、キリスト教、特にカトリック教会が何世紀にもわたって西洋文明の支配的な勢力であり続けることが確実になりました。"
+            },
+            "KR": {
+                "title": "서양 문화",
+                "memoir": "역사적으로 학자들은 서양 문명의 사고 방식을 고대 그리스 로마의 고전 시대와 밀접하게 관련시켜 왔습니다. 그러나 학자들은 고대 이집트, 페니키아의 도시 국가, 일부 중동 문명 등 다른 고대 문명도 서양 문명의 발전을 촉진하고 공헌했다는 것을 인정합니다. 헬레니즘 시대에는 그리스, 로마, 유대 문화가 융합하는 싱크레티즘도 촉진되었습니다. 문학, 엔지니어링, 과학의 큰 발전은 헬레니즘 시대의 유대 문화를 형성했으며, 그곳에서 초기 기독교인과 그리스어 신약 성경이 탄생했습니다. 고대 후기의 유럽의 최종 기독교화는 기독교, 특히 가톨릭 교회가 수세기에 걸쳐 서양 문명의 지배적인 세력으로 남아있는 것을 보장했다."
+            },
+            "CN": {
+                "title": "西方文化",
+                "memoir": "历史上，学者们把西方文明的理念与古希腊、罗马的古典时代紧密联系在一起。然而，学者们承认，其他古代文明，如古埃及、腓尼基城邦和几个中东文明，也影响并促进了西方文明的发展。希腊化时期也促进了文化融合，即希腊、罗马和犹太文化的交融。文学、工程和科学的巨大进步塑造了希腊化犹太文化，早期基督教和希腊新约由此产生。欧洲在古代晚期最终实现基督教化，确保了基督教，特别是天主教会在未来几个世纪内继续成为西方文明的主导力量。"
             }
         }
     },
@@ -228,6 +374,22 @@
             "RU": {
                 "title": "Петра",
                 "memoir": "Еврейский историк Иосиф Флавий (ок. 37-100 гг. н. э.) пишет, что регион был заселен мадианитянами во времена Моисея, и что ими правили пять царей, одним из которых был Рекем. Иосиф Флавий упоминает, что город, называемый греками Петрой, «занимает самое высокое место в земле арабов» и все арабы его времени по-прежнему называли его Рекеме, в честь его царственного основателя (Древности IV. 7, 1; 4, 7). Ономастикон Евсевия также идентифицировал Рекем как Петру. Арабское слово raqama означает «отмечать, украшать», поэтому Рекеме могло быть набатейским словом, относящимся к знаменитым резным каменным фасадам. В 1964 году рабочие, расчищавшие щебень со скалы у входа в ущелье, обнаружили несколько погребальных надписей набатейским шрифтом. Одно из них было посвящено некоему Петраиосу, который родился в Ракму (Рекеме) и похоронен в Гаршу (Джераше)."
+            },
+            "UA": {
+                "title": "Петра",
+                "memoir": "Єврейський історик Йосип Флавій (бл. 37-100 рр. н. е.) пише, що регіон був заселений мадіанітянами за часів Мойсея, і що ними правили п'ять царів, одним з яких був Рекем. Йосип Флавій згадує, що місто, зване греками Петрою, «займає найвище місце в землі арабів» і всі араби його часу, як і раніше, називали його Рекеме, на честь його царственого засновника (Стародавності IV. 7, 1; 4, 7). Ономастикон Євсевія також ідентифікував Рекем як Петра. Арабське слово raqama означає «відзначати, прикрашати», тому Рекеме могло бути набатейським словом, яке стосується знаменитих різьблених кам'яних фасадів. 1964 року робітники, що розчищали щебінь зі скелі біля входу в ущелину, виявили кілька похоронних написів набатейським шрифтом. Одне було присвячено якомусь Петраіосу, який народився Ракму (Рекеме) і похований Гаршу (Джераше)."
+            },
+            "GR": {
+                "title": "Πέτρα",
+                "memoir": "Ο Εβραίος ιστορικός Ιώσηπος (περίπου 37-100 μ.Χ.) γράφει ότι η περιοχή κατοικούνταν από Μαδιανίτες κατά την εποχή του Μωυσή και ότι κυβερνιούνταν από πέντε βασιλιάδες, ένας εκ των οποίων ήταν ο Ρεκέμ. Ο Ιώσηπος Φλάβιος αναφέρει ότι η πόλη που ονομαζόταν Πέτρα από τους Έλληνες «καταλαμβάνει την υψηλότερη θέση στη γη των Αράβων» και όλοι οι Άραβες της εποχής του την ονόμαζαν ακόμα Ρεκέμε, προς τιμήν του βασιλικού ιδρυτή της (Αντ. IV. 7, 1; 4, 7). Το Ονομαστικόν του Ευσέβιου αναγνώρισε επίσης το Ρέκεμ ως Πέτρα. Η αραβική λέξη Ρεκέμε σημαίνει «σημαδεύω, διακοσμώ», επομένως η λέξη Ρεκέμε μπορεί να ήταν μια ναβαταϊκή λέξη που αναφερόταν στις διάσημες προσόψεις από σκαλιστή πέτρα. Το 1964, εργάτες που καθάριζαν τα ερείπια από έναν γκρεμό στην είσοδο του φαραγγιού ανακάλυψαν αρκετές επιτύμβιες επιγραφές σε γραφή των Ναβαταίων. Ένα από αυτά ήταν αφιερωμένο σε κάποιον Πετράιο, ο οποίος γεννήθηκε στο Ράκμου (Ρέκεμ) και θάφτηκε στο Γκαρσού (Γέρασα)."
+            },
+            "CY": {
+                "title": "Πέτρα",
+                "memoir": "Ο Εβραίος ιστορικός Ιώσηπος (περίπου 37-100 μ.Χ.) γράφει ότι η περιοχή κατοικούνταν από Μαδιανίτες κατά την εποχή του Μωυσή και ότι κυβερνιούνταν από πέντε βασιλιάδες, ένας εκ των οποίων ήταν ο Ρεκέμ. Ο Ιώσηπος Φλάβιος αναφέρει ότι η πόλη που ονομαζόταν Πέτρα από τους Έλληνες «καταλαμβάνει την υψηλότερη θέση στη γη των Αράβων» και όλοι οι Άραβες της εποχής του την ονόμαζαν ακόμα Ρεκέμε, προς τιμήν του βασιλικού ιδρυτή της (Αντ. IV. 7, 1; 4, 7). Το Ονομαστικόν του Ευσέβιου αναγνώρισε επίσης το Ρέκεμ ως Πέτρα. Η αραβική λέξη Ρεκέμε σημαίνει «σημαδεύω, διακοσμώ», επομένως η λέξη Ρεκέμε μπορεί να ήταν μια ναβαταϊκή λέξη που αναφερόταν στις διάσημες προσόψεις από σκαλιστή πέτρα. Το 1964, εργάτες που καθάριζαν τα ερείπια από έναν γκρεμό στην είσοδο του φαραγγιού ανακάλυψαν αρκετές επιτύμβιες επιγραφές σε γραφή των Ναβαταίων. Ένα από αυτά ήταν αφιερωμένο σε κάποιον Πετράιο, ο οποίος γεννήθηκε στο Ράκμου (Ρέκεμ) και θάφτηκε στο Γκαρσού (Γέρασα)."
+            },
+            "IL": {
+                "title": "פטרה",
+                "memoir": "ההיסטוריון היהודי יוסף בן מתתיהו (בערך 37-100 לספירה) כותב שהאזור היה מיושב על ידי מדיינים בתקופת משה וכי הוא נשלט על ידי חמישה מלכים, שאחד מהם היה רקם. יוספוס פלביוס מזכיר כי העיר שנקראה פטרה על ידי היוונים \"תופסת את המעמד הגבוה ביותר בארץ הערבים\" וכל הערבים בתקופתו עדיין קראו לה רקמה, לכבוד מייסדה המלכותי (פרק ד', 7, 1; 4, 7). Onomasticus של Eusebius זיהה גם את Rekem בתור פטרה. פירוש המילה הערבית רקמה הוא \"לסמן, לקשט\", כך שייתכן שהמילה רקמה הייתה מילה נבטית המתייחסת לחזיתות האבן המגולפות המפורסמות. בשנת 1964, עובדים שפינו הריסות מצוק בכניסה לקניון גילו מספר כתובות על קברים בכתב נבטי. אחד מהם הוקדש לפטראיוס מסוים, שנולד ברחמו (רקם) ונקבר בגרסו (גרש)."
             }
         }
     },
@@ -238,6 +400,14 @@
             "RU": {
                 "title": "Гладиаторы",
                 "memoir": "Два других источника гладиаторов, которые все чаще встречались во время принципата и относительно низкой военной активности Pax Romana, были рабы, осужденные на арену (damnati), в гладиаторские школы или игры (ad ludum gladiatorium) в качестве наказания за преступления, и платные добровольцы (auctorati), которые к концу Республики могли составлять примерно половину — и, возможно, самую способную половину — всех гладиаторов. Использование добровольцев имело прецедент в иберийском munus Сципиона Африканского; но никто из них не получал плату."
+            },
+            "GR": {
+                "title": "Μονομάχοι",
+                "memoir": "Δύο άλλες πηγές μονομάχων, ολοένα και πιο συχνές κατά τη διάρκεια του Πριγκιπάτου και της σχετικά χαμηλής στρατιωτικής δραστηριότητας της Pax Romana, ήταν οι σκλάβοι που καταδικάζονταν στην αρένα (damnati), οι σχολές ή οι αγώνες μονομάχων (ad game gladiatorium) ως τιμωρία για εγκλήματα, και οι αμειβόμενοι εθελοντές (auctorati), οι οποίοι μέχρι το τέλος της Δημοκρατίας μπορεί να αποτελούσαν περίπου το ήμισυ - και ίσως το πιο ικανό μισό - όλων των μονομάχων. Η χρήση εθελοντών είχε προηγούμενο στην Ιβηρική κοινότητα του Σκιπίωνα του Αφρικανού. αλλά κανένας από αυτούς δεν έλαβε πληρωμή."
+            },
+            "CY": {
+                "title": "Μονομάχοι",
+                "memoir": "Δύο άλλες πηγές μονομάχων, ολοένα και πιο συχνές κατά τη διάρκεια του Πριγκιπάτου και της σχετικά χαμηλής στρατιωτικής δραστηριότητας της Pax Romana, ήταν οι σκλάβοι που καταδικάζονταν στην αρένα (damnati), οι σχολές ή οι αγώνες μονομάχων (ad game gladiatorium) ως τιμωρία για εγκλήματα, και οι αμειβόμενοι εθελοντές (auctorati), οι οποίοι μέχρι το τέλος της Δημοκρατίας μπορεί να αποτελούσαν περίπου το ήμισυ - και ίσως το πιο ικανό μισό - όλων των μονομάχων. Η χρήση εθελοντών είχε προηγούμενο στην Ιβηρική κοινότητα του Σκιπίωνα του Αφρικανού. αλλά κανένας από αυτούς δεν έλαβε πληρωμή."
             }
         }
     },
@@ -258,16 +428,32 @@
             "RU": {
                 "title": "Дедал и Икар",
                 "memoir": "Дедал был изобретателем, который жил в Афинах. Говорили, что он мог подчинять природу своей воле. Минос, царь острова Крит, слышал об этой репутации и взял Дедала и его сына Икара на Крит, где он поручил им помочь построить удивительный дворец; лабиринт такой сложности, что никто не мог из него сбежать. Когда дворец был закончен, Дедал хотел вернуться на Крит со своим сыном, но царь не позволил этого. Однажды Дедал придумал план их побега и сделал крылья из перьев и воска для себя и Икара, чтобы сбежать. Сначала кажется, что план работает, но затем Икар подлетает слишком близко к солнцу, его перья опадают, и он падает и разбивается насмерть."
+            },
+            "GR": {
+                "title": "Δαίδαλος και Ίκαρος",
+                "memoir": "Ο Δαίδαλος ήταν εφευρέτης που έζησε στην Αθήνα. Έλεγαν ότι μπορούσε να υποτάξει τη φύση στη θέλησή του. Ο Μίνωας, βασιλιάς της Κρήτης, άκουσε για αυτή τη φήμη και πήρε τον Δαίδαλο και τον γιο του Ίκαρο στην Κρήτη, όπου τους ανέθεσε να βοηθήσουν στην κατασκευή ενός υπέροχου παλατιού. ένας λαβύρινθος τέτοιας πολυπλοκότητας που κανείς δεν μπορούσε να ξεφύγει από αυτόν. Όταν ολοκληρώθηκε το παλάτι, ο Δαίδαλος ήθελε να επιστρέψει στην Κρήτη με τον γιο του, αλλά ο βασιλιάς δεν του το επέτρεψε. Μια μέρα, ο Δαίδαλος σκέφτηκε ένα σχέδιο για τη διαφυγή τους και έφτιαξε φτερά από φτερά και κερί για να ξεφύγουν αυτός και ο Ίκαρος. Στην αρχή το σχέδιο φαίνεται να πετυχαίνει, αλλά στη συνέχεια ο Ίκαρος πετάει πολύ κοντά στον ήλιο, τα φτερά του πέφτουν και πέφτει και πεθαίνει."
+            },
+            "CY": {
+                "title": "Δαίδαλος και Ίκαρος",
+                "memoir": "Ο Δαίδαλος ήταν εφευρέτης που έζησε στην Αθήνα. Έλεγαν ότι μπορούσε να υποτάξει τη φύση στη θέλησή του. Ο Μίνωας, βασιλιάς της Κρήτης, άκουσε για αυτή τη φήμη και πήρε τον Δαίδαλο και τον γιο του Ίκαρο στην Κρήτη, όπου τους ανέθεσε να βοηθήσουν στην κατασκευή ενός υπέροχου παλατιού. ένας λαβύρινθος τέτοιας πολυπλοκότητας που κανείς δεν μπορούσε να ξεφύγει από αυτόν. Όταν ολοκληρώθηκε το παλάτι, ο Δαίδαλος ήθελε να επιστρέψει στην Κρήτη με τον γιο του, αλλά ο βασιλιάς δεν του το επέτρεψε. Μια μέρα, ο Δαίδαλος σκέφτηκε ένα σχέδιο για τη διαφυγή τους και έφτιαξε φτερά από φτερά και κερί για να ξεφύγουν αυτός και ο Ίκαρος. Στην αρχή το σχέδιο φαίνεται να πετυχαίνει, αλλά στη συνέχεια ο Ίκαρος πετάει πολύ κοντά στον ήλιο, τα φτερά του πέφτουν και πέφτει και πεθαίνει."
             }
         }
     },
     "Temple of Artemis at Ephesus": {
         "insignia": "Palace", "country": "TR",
-        "memoir": "When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.' - Antipater of Sidon.",
+        "memoir": "When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.' - Antipater of Sidon. Temple of Artemis, temple at Ephesus, now in western Turkey, that was one of the Seven Wonders of the World. The great temple was built by Croesus, king of Lydia, about 550 bce and was rebuilt after being burned by a madman named Herostratus in 356 bce. The Artemesium was famous not only for its great size, over 350 by 180 feet (about 110 by 55 metres), but also for the magnificent works of art that adorned it. The temple was destroyed by invading Goths in 262 ce and was never rebuilt. Little remains of the temple.",
         "language": {
             "RU": {
                 "title": "Храм Артемиды в Эфесе",
-                "memoir": "Когда я увидел дом Артемиды, возвышавшийся над облаками, другие чудеса потеряли свой блеск, и я сказал: «Вот, кроме Олимпа, Солнце никогда не видело ничего столь величественного» - Антипатр Сидонский."
+                "memoir": "Когда я увидел дом Артемиды, возвышавшийся над облаками, другие чудеса потеряли свой блеск, и я сказал: «Вот, кроме Олимпа, Солнце никогда не видело ничего столь величественного» - Антипатр Сидонский. Храм Артемиды, храм в Эфесе, сейчас на западе Турции, который был одним из Семи чудес света. Великий храм был построен Крезом, царем Лидии, около 550 г. до н. э. и был восстановлен после того, как был сожжен безумцем по имени Герострат в 356 г. до н. э. Артемизий был известен не только своими огромными размерами, более 350 на 180 футов (около 110 на 55 метров), но и великолепными произведениями искусства, которые его украшали. Храм был разрушен вторгшимися готами в 262 г. н. э. и никогда не восстанавливался. От храма мало что осталось."
+            },
+            "GR": {
+                "title": "Ναός της Αρτέμιδος στην Έφεσο",
+                "memoir": "Όταν είδα το σπίτι της Άρτεμης να υψώνεται πάνω από τα σύννεφα, άλλα θαύματα έχασαν τη λάμψη τους, και είπα: «Ιδού, εκτός από τον Όλυμπο, ο Ήλιος δεν έχει ξαναδεί τίποτα τόσο μεγαλοπρεπές» - Αντίπατρος της Σιδώνας. Ναός της Αρτέμιδος, ναός στην Έφεσο, τώρα στη δυτική Τουρκία, που ήταν ένα από τα Επτά Θαύματα του Κόσμου. Ο μεγάλος ναός χτίστηκε από τον Κροίσο, βασιλιά της Λυδίας, περίπου το 550 π.Χ. και ξαναχτίστηκε αφού κάηκε από έναν τρελό ονόματι Ηρόστρατο το 356 π.Χ. Το Αρτεμήσιο ήταν διάσημο όχι μόνο για το μεγάλο του μέγεθος, πάνω από 350 επί 180 πόδια (περίπου 110 επί 55 μέτρα), αλλά και για τα υπέροχα έργα τέχνης που το κοσμούσαν. Ο ναός καταστράφηκε από εισβολείς Γότθους το 262 μ.Χ. και δεν ξαναχτίστηκε ποτέ. Ελάχιστα ερείπια του ναού."
+            },
+            "CY": {
+                "title": "Ναός της Αρτέμιδος στην Έφεσο",
+                "memoir": "Όταν είδα το σπίτι της Άρτεμης να υψώνεται πάνω από τα σύννεφα, άλλα θαύματα έχασαν τη λάμψη τους, και είπα: «Ιδού, εκτός από τον Όλυμπο, ο Ήλιος δεν έχει ξαναδεί τίποτα τόσο μεγαλοπρεπές» - Αντίπατρος της Σιδώνας. Ναός της Αρτέμιδος, ναός στην Έφεσο, τώρα στη δυτική Τουρκία, που ήταν ένα από τα Επτά Θαύματα του Κόσμου. Ο μεγάλος ναός χτίστηκε από τον Κροίσο, βασιλιά της Λυδίας, περίπου το 550 π.Χ. και ξαναχτίστηκε αφού κάηκε από έναν τρελό ονόματι Ηρόστρατο το 356 π.Χ. Το Αρτεμήσιο ήταν διάσημο όχι μόνο για το μεγάλο του μέγεθος, πάνω από 350 επί 180 πόδια (περίπου 110 επί 55 μέτρα), αλλά και για τα υπέροχα έργα τέχνης που το κοσμούσαν. Ο ναός καταστράφηκε από εισβολείς Γότθους το 262 μ.Χ. και δεν ξαναχτίστηκε ποτέ. Ελάχιστα ερείπια του ναού."
             }
         },
         "world_wonder": { "continent": "Asia", "start": -550, "end": -323 }
@@ -279,16 +465,28 @@
             "RU": {
                 "title": "Ворота Иштар",
                 "memoir": "Царь Навуходоносор II правил в 604-562 гг. до н. э., в период расцвета Нововавилонской империи. Он известен как библейский завоеватель, захвативший Иерусалим. Он приказал построить ворота и посвятил их вавилонской богине Иштар. Ворота были построены из глазурованного кирпича с чередующимися рядами барельефов mušḫuššu (драконов), aurochs (быков) и львов, символизирующих богов Мардука, Адада и Иштар соответственно."
+            },
+            "GR": {
+                "title": "Πύλη Ιστάρ",
+                "memoir": "Ο βασιλιάς Ναβουχοδονόσορας Β΄ βασίλευσε από το 604 έως το 562. π.Χ. ε., κατά την ακμή της Νεο-Βαβυλωνιακής Αυτοκρατορίας. Είναι γνωστός ως ο βιβλικός κατακτητής που κατέλαβε την Ιερουσαλήμ. Διέταξε την κατασκευή της πύλης και την αφιέρωσε στη βαβυλωνιακή θεά Ιστάρ. Η πύλη ήταν χτισμένη από εφυαλωμένα τούβλα με εναλλασσόμενες σειρές ανάγλυφων με δράκους (mušḫuššu), ταύρους (βούβαλους) και λιοντάρια, που συμβολίζουν τους θεούς Μαρντούκ, Αντάντ και Ιστάρ αντίστοιχα."
+            },
+            "CY": {
+                "title": "Πύλη Ιστάρ",
+                "memoir": "Ο βασιλιάς Ναβουχοδονόσορας Β΄ βασίλευσε από το 604 έως το 562. π.Χ. ε., κατά την ακμή της Νεο-Βαβυλωνιακής Αυτοκρατορίας. Είναι γνωστός ως ο βιβλικός κατακτητής που κατέλαβε την Ιερουσαλήμ. Διέταξε την κατασκευή της πύλης και την αφιέρωσε στη βαβυλωνιακή θεά Ιστάρ. Η πύλη ήταν χτισμένη από εφυαλωμένα τούβλα με εναλλασσόμενες σειρές ανάγλυφων με δράκους (mušḫuššu), ταύρους (βούβαλους) και λιοντάρια, που συμβολίζουν τους θεούς Μαρντούκ, Αντάντ και Ιστάρ αντίστοιχα."
             }
         }
     },
     "Mausoleum at Halicarnassus": {
         "insignia": "Palace", "country": "TR",
-        "memoir": "A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. - Lucian of Samosata.",
+        "memoir": "A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. - Lucian of Samosata. Mausoleum of Halicarnassus, one of the Seven Wonders of the World. The monument was the tomb of Mausolus, ruler of Caria, in southwestern Asia Minor. It was built in his capital city, Halicarnassus, between about 353 and 351 bce by his sister and widow, Artemisia II. The building was designed by the Greek architects Pythius (sources spell the name variously, which has cast doubt on his identity) and Satyros. The sculptures that adorned it were the work of four leading Greek artists—Scopas, Bryaxis, Leochares, and (most likely) Timotheus—each of whom was responsible for a single side.",
         "language": {
             "RU": {
                 "title": "Галикарнасский Мавзолей",
-                "memoir": "Надо мной в Галикарнасе лежит огромная гробница таких размеров и такой изысканной красоты, какой не может похвастаться ни один другой оттенок - Лукиан Самосатский."
+                "memoir": "Надо мной в Галикарнасе лежит огромная гробница таких размеров и такой изысканной красоты, какой не может похвастаться ни один другой оттенок - Лукиан Самосатский. Мавзолей Галикарнаса, одно из Семи чудес света. Памятник был гробницей Мавсола, правителя Карии, на юго-западе Малой Азии. Он был построен в его столице, Галикарнасе, между 353 и 351 годами до н. э. его сестрой и вдовой Артемисией II. Здание было спроектировано греческими архитекторами Пифием (источники пишут это имя по-разному, что ставит под сомнение его личность) и Сатиром. Скульптуры, украшавшие его, были работой четырех ведущих греческих художников — Скопаса, Бриаксиса, Леохара и (скорее всего) Тимофея, — каждый из которых отвечал за одну сторону."
+            },
+            "CY": {
+                "title": "Μαυσωλείο της Αλικαρνασσού",
+                "memoir": "Πάνω μου στην Αλικαρνασσό βρίσκεται ένας τεράστιος τάφος τέτοιων διαστάσεων και εξαιρετικής ομορφιάς που κανένα άλλο χρώμα δεν μπορεί να καυχηθεί - ο Λουκιανός των Σαμόσατων. Μαυσωλείο της Αλικαρνασσού, ένα από τα Επτά Θαύματα του Κόσμου. Το μνημείο ήταν ο τάφος του Μαυσώλου, ηγεμόνα της Καρίας, στη νοτιοδυτική Μικρά Ασία. Χτίστηκε στην πρωτεύουσά της, την Αλικαρνασσό, μεταξύ 353 και 351 π.Χ. μι. η αδερφή και χήρα του Αρτεμισία Β΄. Το κτίριο σχεδιάστηκε από τους Έλληνες αρχιτέκτονες Πυθία (οι πηγές γράφουν αυτό το όνομα διαφορετικά, γεγονός που θέτει υπό αμφισβήτηση την ταυτότητά του) και Σάτυρο. Τα γλυπτά που το διακοσμούσαν ήταν έργα τεσσάρων κορυφαίων Ελλήνων καλλιτεχνών - Σκόπα, Βρύαξη, Λεωχάρη και (πιθανότατα) Τιμόθεου - ο καθένας υπεύθυνος για τη μία πλευρά."
             }
         },
         "world_wonder": { "continent": "Asia", "start": -351, "end": 1494 }
